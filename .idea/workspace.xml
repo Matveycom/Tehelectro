@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3dcf5ba7-b1c6-4014-a0b3-f86ef7c67cb5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-06/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/2017-06/1_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-block-content.html._0FM976pgUKf9JZC4FewIYX9CC/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-block-content.html._0FM976pgUKf9JZC4FewIYX9CC/ZcCCV8_mD_jbjwPrag1iD253zgjaX1MEhjFI1B2Kz70.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-block.html.twig_rwmg6Ez1PhNJYXhydEdIV00UK/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-block.html.twig_rwmg6Ez1PhNJYXhydEdIV00UK/4q3uNXtnrATusL82MpYLUoEFrJ5_jIsn3VSY50fJeus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-page.html.twig_dB6_RM4LaQB1E7UCvaX2DVOq2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_admin-page.html.twig_dB6_RM4LaQB1E7UCvaX2DVOq2/wWqOxxRhIqH79NnkisP-fTZsb8CmOduM4apy11zwSwE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--local-actions-bloc_7JhcRwhN0Znm8dRHAh3Z5aAi-/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--local-actions-bloc_7JhcRwhN0Znm8dRHAh3Z5aAi-/GKXT2Bahlhtg4MkrIxgm6_YWwmD9GdnkXnMHo7DOn3o.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--local-tasks-block._644HhoFDXFTyUtmn5aa9RamJB/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--local-tasks-block._644HhoFDXFTyUtmn5aa9RamJB/AxgUHYmV4r4DHJkNoktHr1FlaoMY7ypVZkrmWtlf9R0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--search-form-block._aMrn9GpS8vqCni7oE6lKOfSy2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--search-form-block._aMrn9GpS8vqCni7oE6lKOfSy2/GNDnsyQe4wl5tzyeOE5xTcPFXcQeuvn22h0GcpscBLE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-branding-bl_ViV2SGbS1PVYVwbaG63MhTpVw/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-branding-bl_ViV2SGbS1PVYVwbaG63MhTpVw/lWsCQZxjQZOL5VcSHPWLGbLGvR-CAdnVbUEhlUGE1Aw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-menu-block._0djoz0X3QQA3gHfPIv8Ys8KFy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-menu-block._0djoz0X3QQA3gHfPIv8Ys8KFy/FMtazVtXCjXGWnUrdPIE2YA9ZYZHKOjDxiaLah82dpg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-messages-bl_k6mJ9YOmn_muWy1fHMoh9OO6H/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block--system-messages-bl_k6mJ9YOmn_muWy1fHMoh9OO6H/_KqKUWn6EOE8AnMoHJ_NFZAqwrLoIXnPKiYFKPuWrvQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_RaxcD_Ozyj4rZR7jTJXMDcNYp/UZBprE6OelkXFETP390UFhbSFyA84nrnBKvncNt0aV4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_SPyKCXAOAP3fcdrOgkAHxAZj_/sFvbVFkomcGRX0L-z9MUIhlW5Yock_-QrHTQ0jiVFfE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_TqsUEPLNybbmdd9BYp5Py8l8F/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_TqsUEPLNybbmdd9BYp5Py8l8F/FyEtV-R_gOgZkFIi2rGS63Ub7A4wgFzPSp5p7-EPFGk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_b_Mizf9akspmNdSWvFZKtXFKZ/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_b_Mizf9akspmNdSWvFZKtXFKZ/fgCQRAvHk4TvFfS27DpPVxW_2a_z2luRW7UF0oQqaL0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_v1vtrNDFY_4N-LDlKwwxs5Pw2/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_block.html.twig_v1vtrNDFY_4N-LDlKwwxs5Pw2/9H1wf02KHEc-8-Z-j08Lpi0WS_2jxhVP_YvNFyfa39k.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_breadcrumb.html.twig_oThuuL0usUfuR9PjjjzdUtlW4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_breadcrumb.html.twig_oThuuL0usUfuR9PjjjzdUtlW4/VFQPNQlMHUyI1z7wwCuaI619FCIEVW756HpuKI2INrA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_checkboxes.html.twig_I3D_ZYI0w8dj8YFYFHKID_TNt/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_checkboxes.html.twig_I3D_ZYI0w8dj8YFYFHKID_TNt/gS0xijRvrSYev6RQeasCfPlW4j2gVqX4K0gxfWWXVns.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_confirm-form.html.twig_wyBAsn_ipXnRD8asbBPRslzo8/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_confirm-form.html.twig_wyBAsn_ipXnRD8asbBPRslzo8/Fqnnf9QcoE7UiZmRasj4KGHTM4vR4Xf1zIyn3DFUyM8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_container.html.twig_b4EhbhSMBcdH-3_uhBS0K27UU/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_container.html.twig_b4EhbhSMBcdH-3_uhBS0K27UU/Du9_ZxN3dTfFtuxlTcHtIB6caydOzIXAn1Bfwl90l6U.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_datetime-form.html.twig_6VV7QIlEMnQvbP7N4rl9V17mc/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_datetime-form.html.twig_6VV7QIlEMnQvbP7N4rl9V17mc/94P09-9SMqE9q50Qo-mQD0g-lP-jLH5oEDrR3remxGg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_datetime-wrapper.html.twi_lr1NSztZ2BSFqZyAmG7urjeYc/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_datetime-wrapper.html.twi_lr1NSztZ2BSFqZyAmG7urjeYc/0F8GOYWlcSzdYo9lilZkP7oFpGxhDNqaeOqwljB7X-w.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_details.html.twig_6UGsi1pbyPXuI8n8S_grbB06C/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_details.html.twig_6UGsi1pbyPXuI8n8S_grbB06C/X7wk9NeM9thKfbFTY-EGHlfDdKSriCeByAOWRdeReh8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_dropbutton-wrapper.html.t_uoT__EjwU2KLijarz-d-aNeEn/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_dropbutton-wrapper.html.t_uoT__EjwU2KLijarz-d-aNeEn/E73W8X5YVqT94tLE42hki5QS85dyhzwrYrQSl7UQHhE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_feed-icon.html.twig_zYeb2oweTXpO8aLJTWMcrvvGe/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_feed-icon.html.twig_zYeb2oweTXpO8aLJTWMcrvvGe/m8mQK472DkjYoWCT09afFTV_e49_GkTv-3MBHnuVJ9U.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--created.html_4xFm68A4VXxAs__mRU1fukXG0/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--created.html_4xFm68A4VXxAs__mRU1fukXG0/gXZKc-yKAlRaPh3HWFi8utOq55K7VEUXHSzu68FhTRo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--title.html.t_YIA8w4KM_sS3V2qb4ZTAkijzY/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--title.html.t_YIA8w4KM_sS3V2qb4ZTAkijzY/lLTwQaGHgy4zvfX0utv0C2LO1uJ74Yf4rMaBw4H3wbw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--uid.html.twi_gs75SGL73uiEMJUxvgOuION9z/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--node--uid.html.twi_gs75SGL73uiEMJUxvgOuION9z/NQaEKIoB2lwuSdDFf0lShhjVQ7k2iPcbPTl40MzFocA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--text-long.html.twi_rfs81EdBM80NuSdZk2LI5_2dF/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--text-long.html.twi_rfs81EdBM80NuSdZk2LI5_2dF/gsT5bd7ymb8V4iHker71WmoY7QNuDeTfYfvdRZZuQF8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--text.html.twig_QRokRSh6FCHqQzooG_1XDDBRv/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field--text.html.twig_QRokRSh6FCHqQzooG_1XDDBRv/Uq1RHTHoRSKjE3zTwFunBAjoxpyFi8gANxXfPLBH9kU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field-multiple-value-form_nWQTZXGUwKO2s493y6SUeq2mr/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field-multiple-value-form_nWQTZXGUwKO2s493y6SUeq2mr/M5vD-V6ZWtO5EYhVmGLcmvZeIm4TDIPQBBQtST-rLhs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field-ui-table.html.twig_LJGXPXZKJ9duG6xDSyWJ-5bo6/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field-ui-table.html.twig_LJGXPXZKJ9duG6xDSyWJ-5bo6/kgD52tP7612zZc6HAxP9CL7rA1TsP7hlcyiXbHFIpQs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field.html.twig_0Rj930UfGV8Z4Pc4aoevf11_j/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field.html.twig_0Rj930UfGV8Z4Pc4aoevf11_j/_PA8QDrlKGwmOiOK36fd93iWD42wHvE0YPV3i6ttFyY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field.html.twig_sg0aNDZNrB2qJXZQKh1ByVo-x/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_field.html.twig_sg0aNDZNrB2qJXZQKh1ByVo-x/n9Wwqj17CrXRcyrfXkoyA0pSWJplgfWgjOzesKalnWM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_fieldset.html.twig_1ux1Cn8VTcz3RG5KZjVG-Xk9_/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_fieldset.html.twig_1ux1Cn8VTcz3RG5KZjVG-Xk9_/vUpzZYsjeIlOp1M4kozQYzgYic2me7OJaHwcByHwvPY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-link.html.twig_6uajNBuiTLgsyGIsw6c6vNWwD/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-link.html.twig_6uajNBuiTLgsyGIsw6c6vNWwD/zHmgYZwVDdFoYwy6zevXewZPbSSjlAYUc_e447EidVs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-managed-file.html.tw_aXv4AGcDc77YIpyV1f88cD9Jo/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-managed-file.html.tw_aXv4AGcDc77YIpyV1f88cD9Jo/AbHYpktYqIwzbngqIbvcB3AmTPlyx_dcihkuj-QfHPc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-upload-help.html.twi_dJ0ziORuMxb9IhtzishrpIrdp/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-upload-help.html.twi_dJ0ziORuMxb9IhtzishrpIrdp/PnILi4GCXl_ViF8LbzYM1aUi0dTu7bq50_YtdWqmebY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-widget-multiple.html_XyQRs6ZTcXHHVy_TGrOOQswdr/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_file-widget-multiple.html_XyQRs6ZTcXHHVy_TGrOOQswdr/p86ixs9MJ7cr4y10M7ocCucYlDnqx6E0bXJbzq-yp44.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_filter-guidelines.html.tw_egdbUu8u5VHZr6xsI6Fyd6y49/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_filter-guidelines.html.tw_egdbUu8u5VHZr6xsI6Fyd6y49/CfMNr_DBTAAyZgsw7LfELrDr0xECTRVs3m5gAhmHuj0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_filter-tips.html.twig_5xMPZLQLaD6_Ftl2o1h5QanKb/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_filter-tips.html.twig_5xMPZLQLaD6_Ftl2o1h5QanKb/kdaecCbQGFhj6ZtqH-dLVg2G1aVuxkQLVTIl6ixXEe8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form-element-label.html.t_gT2oAkF4SfStPyA9QS72pXpyc/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form-element-label.html.t_gT2oAkF4SfStPyA9QS72pXpyc/EIsUgvLoYosVgqQgz3Zc91i2Km6Bvv9Cv8Mvh_MtE1U.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form-element.html.twig_glNom2c8KnQC8oHtOviVq7Thn/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form-element.html.twig_glNom2c8KnQC8oHtOviVq7Thn/eedFxh1B7EN6b0eN1Y3uODK4CCakj9dKxcwxLNZJhg4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form.html.twig_ddTcY4Rt4Wlxp35wzVg7Z6xGS/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_form.html.twig_ddTcY4Rt4Wlxp35wzVg7Z6xGS/M7k0289rSOQQCEQhiY9xJXGNM6sBlmMGnzlqAHvnVJ4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_html.html.twig_-HX_AP-DilMqBPIZkxyUyxep0/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_html.html.twig_-HX_AP-DilMqBPIZkxyUyxep0/WQifFstoq17ZdIno8iONzZQOWmzniQqFb_QBtQ1TQmE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-formatter.html.twig_eX7knwCaXNLn0ZCTO3MtXTNIV/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-formatter.html.twig_eX7knwCaXNLn0ZCTO3MtXTNIV/rbDaoXB8RG7o70qo9LR-iI4GKQqjLa28w2We7O7Z9rg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-style.html.twig_p8gK_iUQj1dq9IHDBq6V7Wx2r/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-style.html.twig_p8gK_iUQj1dq9IHDBq6V7Wx2r/PBldpl3Sk-zN2H-pvc4BtUGMpjxD_C9sLPzpjrvQ_Y4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-widget.html.twig_ES_cGG0rk4g3TZik9bY3iFhWR/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-widget.html.twig_ES_cGG0rk4g3TZik9bY3iFhWR/LrYIzYjMP4d1GqUBLnqazS9RJgq78cgWPAQn6yfvIno.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-widget.html.twig_jNuSj2GsE28r0k9UxM8w6EOFv/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image-widget.html.twig_jNuSj2GsE28r0k9UxM8w6EOFv/AtLW57OH-K4FTGHYSHcCGelJJVLMTIkD41LDXt-t6bs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image.html.twig_j74fASwIlILK4hKx-d9Sq0FZA/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_image.html.twig_j74fASwIlILK4hKx-d9Sq0FZA/K2HSj15OAWIZRV31qmcmvBFiWBD6A2dJ86oJxFWnTiM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_JJTxwDIjJXWiVjDc7d9lxFE0r/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_JJTxwDIjJXWiVjDc7d9lxFE0r/X5mO5ti3KOI4CAeEn5jf7Ze-bz605EpnaXcTbwBWp8Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_QhQ94tuRBZWFYRsGr3VWSAvun/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_QhQ94tuRBZWFYRsGr3VWSAvun/ofdgBWAuIhAaVTMTEqhFzInaV7yPUFT_wiyknSs4qDI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_T-xhV_TNNJ3iO7wKK2rml8iOw/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_T-xhV_TNNJ3iO7wKK2rml8iOw/wASFPTYpwI_4UX-lOFw-dBSCjFaGsJIQB1Rws_3rML4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_U14AovzfnsaINPcruxLPqxMG_/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_U14AovzfnsaINPcruxLPqxMG_/1fMNSyIlutKZdJSSSEDrPsT-rLw3DvsNPjyC56F33Lg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_ZhAG0kBUKpAs-46iHY1aVRqZS/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_ZhAG0kBUKpAs-46iHY1aVRqZS/pbgkk1jRQertrd_1QaC5dk5Expq1LG32fue3Ac2jiXw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_f9Mjrl2yf8Rq2zAr0n4lhwmFC/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_f9Mjrl2yf8Rq2zAr0n4lhwmFC/UVbV-P7cZ6ipVbRAkVCP_Uryvc_TLBfgepUnUlK9N88.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_jpJj8qHokLlVrKAYf8Ec20K3I/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_jpJj8qHokLlVrKAYf8Ec20K3I/FK87gD8XgAjxyWguLJ_vhyFdLZ1QYHdeC-g3blipt0I.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_qNZqlR_8RUiPKSBIETt8tQKCy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_qNZqlR_8RUiPKSBIETt8tQKCy/fQZ_Af1dh8P4iHY6tvHPw25wPH_HMdN9XMByL6CpsME.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_r15k2nsAAaVOkxXnYQ4z2Ypqq/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_inline-template_r15k2nsAAaVOkxXnYQ4z2Ypqq/yhCq0gGKs6Af20aVeZpv9tNFCoZoQK_YkbeAwbPfeWg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_input.html.twig_l9buRaoPhUxJBwOqDcz3HjlcM/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_input.html.twig_l9buRaoPhUxJBwOqDcz3HjlcM/oYuaY_O_-AiAtPuZev1L0PCEXu7_aYOXKQr1Jeq_qJY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_item-list.html.twig_VVkZNNbjDiyaDSRUjdhVQEUWN/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_item-list.html.twig_VVkZNNbjDiyaDSRUjdhVQEUWN/j5m1NxtY-8PvUYTfe8Rc29aCBiMafEOdU6noNXrMOiQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links--node.html.twig_qBaQFr9Tl2AqZdLTDDDpGtBqa/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links--node.html.twig_qBaQFr9Tl2AqZdLTDDDpGtBqa/SaEp96sy05YGq3lA4yuJK7bpkJUv-iRhBteUo1PIWgk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links.html.twig_8QZPGf3_3cCtZus_wsL7ixlKK/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links.html.twig_8QZPGf3_3cCtZus_wsL7ixlKK/c_JBUY84WAMP51uVzeWKoivT3yNdkAuIvXEXQw3493o.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links.html.twig_KA9UNfGPPAAfgCg_weyFshk4D/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_links.html.twig_KA9UNfGPPAAfgCg_weyFshk4D/P9Oo7gPPb8gssBBoyhL47PnnFT9qX0RGrrkGX5oTCxo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu--main.html.twig_-AizYdUtI5g-R0LFOxDarc9NU/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu--main.html.twig_-AizYdUtI5g-R0LFOxDarc9NU/6MjnrgiokXMgIUixwyY3IAo5tDSF-OOgKk-lwzFJhQ0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu--toolbar.html.twig_rQDjFks3BCronYXg1PC-2I3Bf/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu--toolbar.html.twig_rQDjFks3BCronYXg1PC-2I3Bf/lMMT4R_Nr6WHd34oYLbuSUiHK_Zb6c56TtVQGgCx9rk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-action.html.tw_2-VBfXLA3-ZOUsgiDbE-ZPOaQ/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-action.html.tw_2-VBfXLA3-ZOUsgiDbE-ZPOaQ/nYZHtklk7oYuVZ_aZzHornAedQRhbffkZn7SA8jhfN8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-task.html.twig_yyNGh3tLCIm4Qdz63lgwPMer7/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-task.html.twig_yyNGh3tLCIm4Qdz63lgwPMer7/A03K3IrtFj2p1lBsMQ-SYj5RC-Kth_BtAMNGeIPUWjE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-tasks.html.twi_Jx-0nieMpGscEcimbvFnzGGPF/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-tasks.html.twi_Jx-0nieMpGscEcimbvFnzGGPF/lpH536U_WxSY2bSTljBeK0FuwiYaq43GG1hhZO-Zr2Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-tasks.html.twi_N4Vcy-0mubonwLEEAm8DpCaS3/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu-local-tasks.html.twi_N4Vcy-0mubonwLEEAm8DpCaS3/Rxw17Izwzc6FHUtQpzZEdlmVG6lp-B6Zchm14AOEH1Y.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu.html.twig_IOkc9eky-gaYXfjjev7mOqvQB/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_menu.html.twig_IOkc9eky-gaYXfjjev7mOqvQB/XGSO-rrWuSlgWCtb_V-LuT-zgwsP3hA-SJ1ZuHOWzyE.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node-add-list.html.twig_AFtGIb8tppYqRIjvLFr_5ODT-/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node-add-list.html.twig_AFtGIb8tppYqRIjvLFr_5ODT-/5QN6gFYsLezWRHNQkK9D3xvE09EKLkHV4klTRTrryR0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node-edit-form.html.twig_50qh1Xeu66tfXvXjB0ZXv76Do/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node-edit-form.html.twig_50qh1Xeu66tfXvXjB0ZXv76Do/G34WMIBT-aWg5RURNgyVf4YhekP43rtLrdkKifNgLog.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node.html.twig_KvN1Zan6xeyoO15wsA4elkXAp/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_node.html.twig_KvN1Zan6xeyoO15wsA4elkXAp/2n5Hkc0SVY8mUZvhUztTy12B_u9uHWXBZm91ldcBSGc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page-title.html.twig_2KIjM8UTP1xzoU5pQ8gSxP9OP/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page-title.html.twig_2KIjM8UTP1xzoU5pQ8gSxP9OP/Ho0o50y3YONonCht33yLElFSLgN7_wAoCy5J2KpljQA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page.html.twig_aLRn1C2WSJ1I6kEVX-YY9tYy-/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page.html.twig_aLRn1C2WSJ1I6kEVX-YY9tYy-/v5wr9sl3CSfUzdbyYyoPYmduN_sAPLr9Ap9kGMwYn5o.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page.html.twig_e1Edl03Z-8Znf4_F9EUHtjmET/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_page.html.twig_e1Edl03Z-8Znf4_F9EUHtjmET/x1N7IKVjEvz-VidckyM5QsXLkY-b_aY1osOGna5Xp8A.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_pager.html.twig_fcxt-If8C5BfHmb94lW7fSve3/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_pager.html.twig_fcxt-If8C5BfHmb94lW7fSve3/aQgNhNdBkXOdNPv7jJnKB4VjZsP9Nb9jPJ_j9KcZucA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_radios.html.twig_vVXqL32I4WTKlCut-yG0u5gQQ/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_radios.html.twig_vVXqL32I4WTKlCut-yG0u5gQQ/NV-UICQlhsTQtZTONecEBnMJ5pcUl8cMmzBgO07Zo5Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_region.html.twig_q98LRWSQhAO8_20lhs3gNjcSI/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_region.html.twig_q98LRWSQhAO8_20lhs3gNjcSI/eFDkA2YEL6JNqBNpfZI0h8EbmqpSMDN9GGPVJ59ZL9Q.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_select.html.twig_GxQEkhiZBrpFwJlAF3jJjLDL6/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_select.html.twig_GxQEkhiZBrpFwJlAF3jJjLDL6/F5LHaoVxLrL5rKM8PvFTC5H8wBpDhERra9hxblbNNGQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-messages.html.twig_brVUtdmPiVRwhIyvVF_IRODMm/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-messages.html.twig_brVUtdmPiVRwhIyvVF_IRODMm/NIewWYOxv2k5yVi96eBg0CvzWvZvoWt9RKv9Vk1UGzo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-counter.htm_c8MBwq-vt_nbSthkfLhI6C1xy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-counter.htm_c8MBwq-vt_nbSthkfLhI6C1xy/yV4s7BUxgWvW16V1A-26CzGsSaxZUthvG3RIfjgUyQA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-general-inf_BsS9qNl1nHI5klxztOFwF1m9W/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-general-inf_BsS9qNl1nHI5klxztOFwF1m9W/kt31U5HwAtcXdOzRQjpsNwz8WMNz1xdSoBqwyzpThRY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-grouped.htm_emIf6tVywdzl59KNQtik02PCP/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-grouped.htm_emIf6tVywdzl59KNQtik02PCP/Q0__fJEitWjEZexc3cKD4K9L2qh1TD7TvaBKyT0Njxk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-page.html.t_m9rdK2kp4W9F1m1dkyydyoZEe/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_status-report-page.html.t_m9rdK2kp4W9F1m1dkyydyoZEe/3g4fWw7NellVK39yH31Xqy-RI3vLtiL8XadAAFMdvTA.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-config-form.html.t_p7M4ySfCfh5q_zRl9cmP_xvSJ/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-config-form.html.t_p7M4ySfCfh5q_zRl9cmP_xvSJ/5IWqF4NfRWomSf5utYDYNe4z0cbxsa62Xoi1fHwt_ek.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-modules-details.ht_qXjlMMIbQLVl-HyHbvKXp8YAW/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-modules-details.ht_qXjlMMIbQLVl-HyHbvKXp8YAW/SLHJrpNycpMUpf3KtLiJLktuMz60qfvICmZ1M8buaMk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-themes-page.html.t_0adZ6WpQ_MdnFHbCULe3igry4/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_system-themes-page.html.t_0adZ6WpQ_MdnFHbCULe3igry4/qL9XhJwWAjyNkFBDzEsdvwuV9nnJiAPBiWPGfByIIYM.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_table.html.twig_WzfUyz-QigqQFjRyrFjCNRCJk/-QFyTOOZRHYLkDuhVAGvUhKGOZMm6YRxIB_n57lfMHs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_table.html.twig_WzfUyz-QigqQFjRyrFjCNRCJk/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_table.html.twig_zQ68u49iqgSgtDD2bF5chAQD1/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_table.html.twig_zQ68u49iqgSgtDD2bF5chAQD1/mKquDaC3geut4qi1_iaZkgBEw593yp3QwiOApSh9X4c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_tablesort-indicator.html._xD0cQ2D-8BtLo1rpSNBqGrBtX/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_tablesort-indicator.html._xD0cQ2D-8BtLo1rpSNBqGrBtX/Q5QjMYJyBIm0q3NWIZFAkG2elUXl8kvfSh49gAdgzo8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_taxonomy-term.html.twig_QcC_ueNbEcsu--_n1qpZIEsNd/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_taxonomy-term.html.twig_QcC_ueNbEcsu--_n1qpZIEsNd/QqXzhn6hkON5k9qzB_FI4gqEDH07H_MrbT3oHq1xMhs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_text-format-wrapper.html._UYolPV7pKqCcrx-hXPTHIp1IW/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_text-format-wrapper.html._UYolPV7pKqCcrx-hXPTHIp1IW/ic-mH0ahRs0slsJKW-SgJdOGvXK7nmMkpWVjVKAagE8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_textarea.html.twig_dT4Gel4v3RqYmWVl3DdbvZ8G8/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_textarea.html.twig_dT4Gel4v3RqYmWVl3DdbvZ8G8/OnqcZEFwY_hLrzUc52c6n7PL44cHJTIlwvMKCEWZ0Fs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_toolbar.html.twig_MHVFMpc-QIbxzRIzQOUidPKco/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_toolbar.html.twig_MHVFMpc-QIbxzRIzQOUidPKco/d1mT34DzcYLsgqoLLcafNnxNJ3-RSgBpQesWlw3MzNw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_user.html.twig_I9XoiXzNKVbepV9MPOWW69z_H/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_user.html.twig_I9XoiXzNKVbepV9MPOWW69z_H/MKgbhaR6cE6UN2XDwvS1enDoB_ijcmwMn96CeMm_Yu4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_username.html.twig_oAojBbUQyX5_8ykUV0xFKMvTy/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_username.html.twig_oAojBbUQyX5_8ykUV0xFKMvTy/0BO3XSvbur2zMyluguHQP4VGOivJ0GkfjdMe1aQzaXQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_vertical-tabs.html.twig_LCSiw25lzIiQw1_a9h569aPDO/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_vertical-tabs.html.twig_LCSiw25lzIiQw1_a9h569aPDO/pgNecBbe1LWdMsC9RBEnFFMWi1fRIludrTesgTUMnYU.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-exposed-form.html.t_oB_M1YSMwbA31aJOuUBv327Pl/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-exposed-form.html.t_oB_M1YSMwbA31aJOuUBv327Pl/VLHBeBzQqfmw6rrZyBZQ7iXZcTjD8LWTbcuSVV7xLXs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-mini-pager.html.twi_ecXHsLHsaOjZuEL4Co55xgpzt/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-mini-pager.html.twi_ecXHsLHsaOjZuEL4Co55xgpzt/RCYOUx-rpp6kW289FuURajCIwSjr9Gchsi2VpsL4LmY.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-container.html.t_EQt48FVIwRrMp5ENEgvokcBHc/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-container.html.t_EQt48FVIwRrMp5ENEgvokcBHc/1Z0NyAnZBebzuEexuY1k2Iv8ikAKDdA_OT1ci9r5eLQ.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-display-tab-buck_v8YNUabKVMPJUI1Wgg1N56Q-v/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-display-tab-buck_v8YNUabKVMPJUI1Wgg1N56Q-v/ZsFjVbXJ26vpx4SDHe9Kc7CKLfPZbdZG3eAI2JJUkZo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-display-tab-sett_f9yAdlzNS-b8TT6eKz7KQiWaL/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-display-tab-sett_f9yAdlzNS-b8TT6eKz7KQiWaL/EMxeJOE4wxThyDKJEU3C96Ga825b4z0GoNlW8gaHZ_8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-view-displays-li_iBC-UxoKHA1ShvtUuVZDeZkHO/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-view-displays-li_iBC-UxoKHA1ShvtUuVZDeZkHO/mx2fbfNy5B-gUb3PP4GSGkT08AlDr_AHvxXCN1JUpik.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-view-preview-sec_p4Li_WYAFjpM9WmIFmIJ1kwJU/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-view-preview-sec_p4Li_WYAFjpM9WmIFmIJ1kwJU/U0g3pZK9mK-JlvSowm1iJtC8GLQwmkIn784wGQkHddI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-views-listing-ta_jvRbN0pHq-NQ8Jc4QFGLs_3tH/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-ui-views-listing-ta_jvRbN0pHq-NQ8Jc4QFGLs_3tH/uijLZRaP7I5vBpy4eY4LrIHlpKtbelid5-RJ2xI6Da0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-field.html.twi_6Kx0xIkpRps-eC5S5t0Den6DP/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-field.html.twi_6Kx0xIkpRps-eC5S5t0Den6DP/x1BJrafEJMIqDSVLQ_kZxBgI5PxEsOD0nF_2S-agejI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-fields.html.tw_uwwno32lblIiSXTNlEtYCc3pH/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-fields.html.tw_uwwno32lblIiSXTNlEtYCc3pH/j8c3nBhuxRWXwuLTZCFb5Q2EUH8ytKHW4JHQMDZEc0A.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-table.html.twi_56YIfFE5MTAeTrQJHkbK4wlMB/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-table.html.twi_56YIfFE5MTAeTrQJHkbK4wlMB/9Hbw_cx-Pa9J7EqTxHFfO-PyvR04MtS_2g4WMhHYGtk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-unformatted.ht_GLk74ajdTCPAADqMjdRopPDzM/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view-unformatted.ht_GLk74ajdTCPAADqMjdRopPDzM/VAsbM6izugBTJ21veBLx7Y46KXOAD5lJfPBgcupci_s.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view.html.twig_9cKWrpHwNLhus5poz3eCGxDQl/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/php/twig/5938158f706b0_views-view.html.twig_9cKWrpHwNLhus5poz3eCGxDQl/FPdImMZqAN2GCWR3Ahby7WM-ZWl2pln6yOx4Mju-cFo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-06/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/2017-06/1_0.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-db-D43F5SjerfFgt4qGDQfTmc7HkKdhQkRfJd0aqMw.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_-db-D43F5SjerfFgt4qGDQfTmc7HkKdhQkRfJd0aqMw.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-yr5v9FuA47aCqUxllr_dTSAgZRmHRTw_xvA67gmDwQ.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_-yr5v9FuA47aCqUxllr_dTSAgZRmHRTw_xvA67gmDwQ.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_0chNz9i7tjWrh9dQHcO_27r-gmtVG1QklR1SK_rbkko.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_0chNz9i7tjWrh9dQHcO_27r-gmtVG1QklR1SK_rbkko.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1Mg5tJXA5zj-qJLU_rGilES36LlvZIK8xXbUgEPQ8BE.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_1Mg5tJXA5zj-qJLU_rGilES36LlvZIK8xXbUgEPQ8BE.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1jwdKG0drU0dEWeuy15IEFAsPzLRfrdhuXzCkfBlmlQ.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_1jwdKG0drU0dEWeuy15IEFAsPzLRfrdhuXzCkfBlmlQ.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_3Z1X5PR304vRfVjs2TtIRN90OWo_9WOqXfXX0YIUI1U.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_3Z1X5PR304vRfVjs2TtIRN90OWo_9WOqXfXX0YIUI1U.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_4jlpkrFD9ks5-MPdzvmCpnvz226N8t4STgPmZqESAtg.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_4jlpkrFD9ks5-MPdzvmCpnvz226N8t4STgPmZqESAtg.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_4tjEt6aOuGNNr3cQPBFs1PurB9TWxjflOUQ29WPmNYE.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_4tjEt6aOuGNNr3cQPBFs1PurB9TWxjflOUQ29WPmNYE.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_7YnzsU3MS9w1I7ixZmACdVYnbVmM3Hj3tfQaearo0XY.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_7YnzsU3MS9w1I7ixZmACdVYnbVmM3Hj3tfQaearo0XY.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BIkxQ7pqcb4eaNWPxDpx93etbpo4o2oIbGasaSVhMho.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BIkxQ7pqcb4eaNWPxDpx93etbpo4o2oIbGasaSVhMho.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BfjOwXcgGAM0Y-DlGD1bGiFd-lARmmGeNTI73ZomQLY.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BfjOwXcgGAM0Y-DlGD1bGiFd-lARmmGeNTI73ZomQLY.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BswT4fWLsqDP2iVwCxtAbYVpPwp7SD0dx9Xx_kZnWEg.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BswT4fWLsqDP2iVwCxtAbYVpPwp7SD0dx9Xx_kZnWEg.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_CmoEDS8gqWSxK_DgruRl4CEuNqwTvuR-ABsvfoV525I.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_CmoEDS8gqWSxK_DgruRl4CEuNqwTvuR-ABsvfoV525I.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DEaBIrdT2jJoXosZSIYd9p3-F_ANQuB5yQuFKNLA-9w.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_DEaBIrdT2jJoXosZSIYd9p3-F_ANQuB5yQuFKNLA-9w.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DeDIqlm_nVQ2ctZSUTJBbUwkQ7d95jBHBYRG8rSKS_w.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_DeDIqlm_nVQ2ctZSUTJBbUwkQ7d95jBHBYRG8rSKS_w.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Ea5K-Au8cOlbEw7mPrsKDUVy6hDoXjaoj6lBjqUZ2AU.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Ea5K-Au8cOlbEw7mPrsKDUVy6hDoXjaoj6lBjqUZ2AU.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GttAslDTtDBkhBpNpvQnXVzRMQLC2LyoDkVNdTzKZXc.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_GttAslDTtDBkhBpNpvQnXVzRMQLC2LyoDkVNdTzKZXc.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GzMe01EXQUNrC28hxpVKTHZaF06DhktUJBI4MLvXp6Y.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_GzMe01EXQUNrC28hxpVKTHZaF06DhktUJBI4MLvXp6Y.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_H83Tj26gsKMBiczwb3LAltHkU7mh9kQOdYkfVeualro.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_H83Tj26gsKMBiczwb3LAltHkU7mh9kQOdYkfVeualro.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_HEujAGMSLCA9t0LS-rixUisnxptR_W8qmPayH0sHDGs.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_HEujAGMSLCA9t0LS-rixUisnxptR_W8qmPayH0sHDGs.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_KNoeztO077XS8k0WRBaZqKBtEePcxeHYeAkkh0k0tco.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_KNoeztO077XS8k0WRBaZqKBtEePcxeHYeAkkh0k0tco.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_KZgfCfdWl1J_nEivjr3gc_RILZsHB9UvWorRdVZ_t84.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_KZgfCfdWl1J_nEivjr3gc_RILZsHB9UvWorRdVZ_t84.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_LR8eStIhHkgD_Xg-iO6d1X2IEBSWj1LAwfQbKyZ2tWg.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_LR8eStIhHkgD_Xg-iO6d1X2IEBSWj1LAwfQbKyZ2tWg.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_M080R7_SVLQj-vQUPBkzTdUMBt9zpuLEslrNrS6T9uw.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_M080R7_SVLQj-vQUPBkzTdUMBt9zpuLEslrNrS6T9uw.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_MnLILbMerWoU3c3iinf8BNTvt83chKLiozkq15t6h-A.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_MnLILbMerWoU3c3iinf8BNTvt83chKLiozkq15t6h-A.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_NyeBxpBFWIqHPeCyFiFJ_S5QcYQ51AabaAtg50jZGJs.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_NyeBxpBFWIqHPeCyFiFJ_S5QcYQ51AabaAtg50jZGJs.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_OGiByx2DQLtl4QLt2N7AovVJ8Vl79pDGWpl5sYMQ4HM.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_OGiByx2DQLtl4QLt2N7AovVJ8Vl79pDGWpl5sYMQ4HM.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_POGnGDAtUe92uNk7yFRmXM4MGm1MjoYbPicTOMK0fg0.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_POGnGDAtUe92uNk7yFRmXM4MGm1MjoYbPicTOMK0fg0.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QLNm4Xq1REgh49mORkvO5jvU39ZLLEX7-vlsdb0UX5s.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QLNm4Xq1REgh49mORkvO5jvU39ZLLEX7-vlsdb0UX5s.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QO9kGapFN3_MvJmtN23_293O5nwKF7NNWd-IWujbD7Q.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QO9kGapFN3_MvJmtN23_293O5nwKF7NNWd-IWujbD7Q.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QXlByiGyyAyNSntuarO-yKvxLfYzR-Ey2MB5mj-zkiY.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QXlByiGyyAyNSntuarO-yKvxLfYzR-Ey2MB5mj-zkiY.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ShdzaONY9Bl0G5VLvYNR9IvrBOmFuAV8aaEXRqi9YNc.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ShdzaONY9Bl0G5VLvYNR9IvrBOmFuAV8aaEXRqi9YNc.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_TFcLTkOf7lNj_rRpaNUrT7KP0LKzX5XZk6HpyX5Iezo.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_TFcLTkOf7lNj_rRpaNUrT7KP0LKzX5XZk6HpyX5Iezo.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_UW-EZdP2Ys1FcfgwAnm7ysPNgkEvsGAO84hS08wwb-o.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_UW-EZdP2Ys1FcfgwAnm7ysPNgkEvsGAO84hS08wwb-o.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Wg34WyDHGNPP0G1D7e3BhwhAw4hI78YH8-RmJw9cQI4.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Wg34WyDHGNPP0G1D7e3BhwhAw4hI78YH8-RmJw9cQI4.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_XYPDMDa6y2b8UjWq7N81VN-DAF6p2RssxiQa8X3VLYQ.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_XYPDMDa6y2b8UjWq7N81VN-DAF6p2RssxiQa8X3VLYQ.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y-u2kM0y2e_onLFIaeVUsdJEKbCAU7D5TIbzHfAPKu4.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Y-u2kM0y2e_onLFIaeVUsdJEKbCAU7D5TIbzHfAPKu4.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y1c-APRj_FMiGNCnRQ39lK70QFs97rQGVuar2KiyeBU.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Y1c-APRj_FMiGNCnRQ39lK70QFs97rQGVuar2KiyeBU.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ZiCjsJGW1w-7BHxjkXfeMJqoM6Sn01Ia_PZJQt3EiCc.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ZiCjsJGW1w-7BHxjkXfeMJqoM6Sn01Ia_PZJQt3EiCc.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css___Mpn3sYrrQ9dTHQluVjGiLRp6MBxqaJQxYb6Gs2S04.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css___Mpn3sYrrQ9dTHQluVjGiLRp6MBxqaJQxYb6Gs2S04.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css__kO8eUP86xGL6jEnXD6g_qefGSpHQo8iozE7Tz6rfJ4.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css__kO8eUP86xGL6jEnXD6g_qefGSpHQo8iozE7Tz6rfJ4.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_aLx3YSD90mI9oafHiW_kQkv4pXvEBu7ZLbbTv_dpuGA.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_aLx3YSD90mI9oafHiW_kQkv4pXvEBu7ZLbbTv_dpuGA.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_as_C8njGQVTtiHPwQ1DvL0YDZnV2Y7wZnfPWspex89U.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_as_C8njGQVTtiHPwQ1DvL0YDZnV2Y7wZnfPWspex89U.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_dI11FLLY7plCZOXjSOd8R5KqMubGYhPlUYO6xSsRDb0.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_dI11FLLY7plCZOXjSOd8R5KqMubGYhPlUYO6xSsRDb0.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_e3G32kO3C7vzB8x2SsWqujq5-EAj5ebn8yBvn2LQr24.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_e3G32kO3C7vzB8x2SsWqujq5-EAj5ebn8yBvn2LQr24.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eAYMgO-152TQwXXIdfUPQVHo29__oZQx4SUo8uyV0NU.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eAYMgO-152TQwXXIdfUPQVHo29__oZQx4SUo8uyV0NU.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eJh97_-Mh6QktTApmm_ydVkxtWe6bBy-wIal1sOk_7k.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eJh97_-Mh6QktTApmm_ydVkxtWe6bBy-wIal1sOk_7k.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eQcrpm_mYRX3Oacl2MuU-rZJb1SmN6vBjL_NovTifcQ.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eQcrpm_mYRX3Oacl2MuU-rZJb1SmN6vBjL_NovTifcQ.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eTrYbPECfMNWjArwuULVYtR7FqgXbeD_B4kOP2Dy6Ec.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eTrYbPECfMNWjArwuULVYtR7FqgXbeD_B4kOP2Dy6Ec.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_g-CnOz-FiumemvWAs70wtcrrBdSSzWRWpBsos0jZyTk.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_g-CnOz-FiumemvWAs70wtcrrBdSSzWRWpBsos0jZyTk.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_gKFwN1nC9BveaIDBm1EHkpTUPB5uRLuM4P5TlBfeGW4.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_gKFwN1nC9BveaIDBm1EHkpTUPB5uRLuM4P5TlBfeGW4.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_gyla5VnHOo5dC-n7ULVz_lKSSf0KwrZRgqHxw7ZCGMA.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_gyla5VnHOo5dC-n7ULVz_lKSSf0KwrZRgqHxw7ZCGMA.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_hxDt0Ya7-4tO26bBr_x5_HJ6elPNoRhl4T3hz1lctN0.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_hxDt0Ya7-4tO26bBr_x5_HJ6elPNoRhl4T3hz1lctN0.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_jJtE-nDH2-5C6lGQTQUD8OZu6XvpM8aQ-C_3wFITyB4.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_jJtE-nDH2-5C6lGQTQUD8OZu6XvpM8aQ-C_3wFITyB4.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_jjuMy5PSRqWrk5PO1qc2xPC7Rw0Va_ywIviZ5yDNmyE.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_jjuMy5PSRqWrk5PO1qc2xPC7Rw0Va_ywIviZ5yDNmyE.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_lll8FX9eoz5tNNG92I0-Tw-HolDvYNfkIO6Esv-1pQE.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_lll8FX9eoz5tNNG92I0-Tw-HolDvYNfkIO6Esv-1pQE.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mYDsFum685tiA0QekSf-9SfauB2RAwybHb80HITJOBQ.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_mYDsFum685tiA0QekSf-9SfauB2RAwybHb80HITJOBQ.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ms2lS1IZPPwb1vU_MhRBuaqiSwMORO5jN34_jCjQah8.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ms2lS1IZPPwb1vU_MhRBuaqiSwMORO5jN34_jCjQah8.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ois7rXTgr1KqN0Vs-O1lHHvpJTduMx9-7onGf7-9XH0.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ois7rXTgr1KqN0Vs-O1lHHvpJTduMx9-7onGf7-9XH0.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ouWVqWe8oQINNZkwd7uxGZxJsu5z7Ze1MKNbKj4Jv8g.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ouWVqWe8oQINNZkwd7uxGZxJsu5z7Ze1MKNbKj4Jv8g.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_rz62QHLW1cY3IaXV6CmUWaTyHHjPQr2s_Rjta160nak.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_rz62QHLW1cY3IaXV6CmUWaTyHHjPQr2s_Rjta160nak.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_v1Kz_3xiYZnU8dfHcOdP_D5OQA8nqrC8ZTyuNBn1JJc.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_v1Kz_3xiYZnU8dfHcOdP_D5OQA8nqrC8ZTyuNBn1JJc.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_wWTSDxQQ3LgmYj8mDhObOX5Hnx92pk2gzb6pNWPpfMk.css.gz" afterPath="$PROJECT_DIR$/sites/default/files/css/css_wWTSDxQQ3LgmYj8mDhObOX5Hnx92pk2gzb6pNWPpfMk.css.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/default_images/нет фото.jpg" afterPath="$PROJECT_DIR$/sites/default/files/default_images/нет фото.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/images.jpg" afterPath="$PROJECT_DIR$/sites/default/files/images.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_--B8fGvBI7rf0cy3lf6R1VtvrbYoFcPONLz7PMa6-6U.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_--B8fGvBI7rf0cy3lf6R1VtvrbYoFcPONLz7PMa6-6U.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-26GtvryYJgJgbSXdmNvtldGsfbPTiX7kdOF3uQwUts.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-26GtvryYJgJgbSXdmNvtldGsfbPTiX7kdOF3uQwUts.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-Ys3NScM2RSlCah27XP9ZXirAa0sv9SJEnYtIDbqokE.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-Ys3NScM2RSlCah27XP9ZXirAa0sv9SJEnYtIDbqokE.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-hQYVwggznAoM0Mpb6TeBUpjH4RjfGNYLM7edDboGGQ.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-hQYVwggznAoM0Mpb6TeBUpjH4RjfGNYLM7edDboGGQ.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_296krtqcBEqbD7VThLmnyV_LBU3sWzshCmqcWw9ES8Y.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_296krtqcBEqbD7VThLmnyV_LBU3sWzshCmqcWw9ES8Y.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_3NDZVAVkrr7t0MnBaWiK0SY5x0dNMgCMIA2SFN_xGIM.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_3NDZVAVkrr7t0MnBaWiK0SY5x0dNMgCMIA2SFN_xGIM.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_8Shnm6BmvDEbiSIZkOYiryfbMyXs5ihBo4WByMgm1UI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_8Shnm6BmvDEbiSIZkOYiryfbMyXs5ihBo4WByMgm1UI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_8jWppP6iEeMEGa05y9oz_-iH_AnMbsPrkkYgGCJPst8.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_8jWppP6iEeMEGa05y9oz_-iH_AnMbsPrkkYgGCJPst8.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_CIr5ug47SQV6ogRQJYjQjCXHDWyx_6936RZZ2pD5YqA.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_CIr5ug47SQV6ogRQJYjQjCXHDWyx_6936RZZ2pD5YqA.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Csx8sv88En5rzH79XfOaQjVFz_YgBiVyf4CS60lI4L8.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Csx8sv88En5rzH79XfOaQjVFz_YgBiVyf4CS60lI4L8.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_DGFmpro3z_7Qoda7Gb7TLH7tf9aoBC_h-G1N8ahQvSI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_DGFmpro3z_7Qoda7Gb7TLH7tf9aoBC_h-G1N8ahQvSI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_E2_Hfv_ngz3Vte-yM8z9dYWYBfCEPxPjSwFPkWw0zps.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_E2_Hfv_ngz3Vte-yM8z9dYWYBfCEPxPjSwFPkWw0zps.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Iew9E2rfp8d0Rddp3tpBBwhyuGYuGZTtlcq5kf20w9c.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Iew9E2rfp8d0Rddp3tpBBwhyuGYuGZTtlcq5kf20w9c.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Jp0lFWn0JiEn-GyugX-2cErJPLh7N7iJz-qjcklfimY.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Jp0lFWn0JiEn-GyugX-2cErJPLh7N7iJz-qjcklfimY.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_M8sd3hhp9XTOdJLHX1UJcUfD2gtcHsr4GotEnov38Oo.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_M8sd3hhp9XTOdJLHX1UJcUfD2gtcHsr4GotEnov38Oo.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_MW3xI_5053OraNROyjyyNeX0nwtYyUrV3Hoa121Hdq0.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_MW3xI_5053OraNROyjyyNeX0nwtYyUrV3Hoa121Hdq0.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_NMRRhb0nelGJUJIamL02h1d6UlwJLmr8dFn7dMiTOVc.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_NMRRhb0nelGJUJIamL02h1d6UlwJLmr8dFn7dMiTOVc.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_NaV6DzXowITOxIupAf3KifcNMZU7lNNLKjm8pK4QGzk.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_NaV6DzXowITOxIupAf3KifcNMZU7lNNLKjm8pK4QGzk.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Nt7XM0XWMfeCEHd48BDHexbIpz3G-BVrec-XGZ7D0vI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Nt7XM0XWMfeCEHd48BDHexbIpz3G-BVrec-XGZ7D0vI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Ozvma01e5P8nB1OkN09shdPJCBVSXAW2hcyjpPa05QU.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Ozvma01e5P8nB1OkN09shdPJCBVSXAW2hcyjpPa05QU.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_PabsqIK3J9jYxHdJYkkD-fwzp6QF4zpk5zc5M7oNl64.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_PabsqIK3J9jYxHdJYkkD-fwzp6QF4zpk5zc5M7oNl64.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Q3u0TBY37_EQfGDXxfn1NRLDOGPGvkkKWtBSWk6CN9U.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Q3u0TBY37_EQfGDXxfn1NRLDOGPGvkkKWtBSWk6CN9U.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_QjGOKB30YQ7Y5h53ZA5qJ8gy3Dw3P8wfW4jKVpOeXgI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_QjGOKB30YQ7Y5h53ZA5qJ8gy3Dw3P8wfW4jKVpOeXgI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_R57gcrinKnvt6v71P3uLtTzXYgtyvjEgPqYqPLBbPyg.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_R57gcrinKnvt6v71P3uLtTzXYgtyvjEgPqYqPLBbPyg.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Tu7A9YsCGJq8tQwSE1XeOVhTlLGG3OJm_5d1vnNQwog.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Tu7A9YsCGJq8tQwSE1XeOVhTlLGG3OJm_5d1vnNQwog.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_UQCIRYNd4vgtIIgWkz3L0Fm1RarF_3aNzHxEGOCWcOo.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_UQCIRYNd4vgtIIgWkz3L0Fm1RarF_3aNzHxEGOCWcOo.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_YplzkhmhbMJlhUpZmYwgBxsp7Gwg9nn7BCIx3xGCL5o.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_YplzkhmhbMJlhUpZmYwgBxsp7Gwg9nn7BCIx3xGCL5o.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Z8NxeuwiZiH92nvR7X001LGFCDWSYzv7W-U1JBZhuyc.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Z8NxeuwiZiH92nvR7X001LGFCDWSYzv7W-U1JBZhuyc.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_ZGX7JztyfCYT-a3Dk-AjLSnRv1ITrqW-NdnUMjksUuA.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_ZGX7JztyfCYT-a3Dk-AjLSnRv1ITrqW-NdnUMjksUuA.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_cupnwWB1To_q15D_Fb8uCaru2QlFb57tfonBliSVVzQ.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_cupnwWB1To_q15D_Fb8uCaru2QlFb57tfonBliSVVzQ.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dIs9FyfjDur7u7ub6LcWg8H0WmjGE-6TkOZCeK2JCOk.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_dIs9FyfjDur7u7ub6LcWg8H0WmjGE-6TkOZCeK2JCOk.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dmxQl2UqCx8a4hhLitFCWMpE1quzREIqTaT8rNYLmKM.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_dmxQl2UqCx8a4hhLitFCWMpE1quzREIqTaT8rNYLmKM.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_ewkxwP_uToNARODqdbpnYQZ2BrsQR7RPhvd2zDMTKjo.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_ewkxwP_uToNARODqdbpnYQZ2BrsQR7RPhvd2zDMTKjo.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fIn9f0odLd1mC8QsE8yDzHZeb6Tjv4HvWFwU3tR9QU4.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_fIn9f0odLd1mC8QsE8yDzHZeb6Tjv4HvWFwU3tR9QU4.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_god7UWfaArsiKIsTydCGgDdcBnoyA7j1AI7Ob8TG_JQ.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_god7UWfaArsiKIsTydCGgDdcBnoyA7j1AI7Ob8TG_JQ.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_gwywn0KamqetiMTdVvwTgXpYtFw_4atclMNw6Mw5B1c.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_gwywn0KamqetiMTdVvwTgXpYtFw_4atclMNw6Mw5B1c.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hkhWpU74bM_9inKIZi_PpAGXXVU818I2iiTXlubJnMA.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hkhWpU74bM_9inKIZi_PpAGXXVU818I2iiTXlubJnMA.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hmbkV5CQ4vcH-ozaLF8i7wcwqtFnNaGoGijgUzHqYiU.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hmbkV5CQ4vcH-ozaLF8i7wcwqtFnNaGoGijgUzHqYiU.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hrEDbvvvmbWNBxfRu_4tayYoYdJyMjj-n3VYsodnBrM.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hrEDbvvvmbWNBxfRu_4tayYoYdJyMjj-n3VYsodnBrM.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hxJMUb8JGwnlToIRw_t1lPWn2rM59O0BcQhOeTC8hTQ.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hxJMUb8JGwnlToIRw_t1lPWn2rM59O0BcQhOeTC8hTQ.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_iJF2FoI1jBKkJscuElEh44qYn0Kj7_TQHTa4AbNzVGU.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_iJF2FoI1jBKkJscuElEh44qYn0Kj7_TQHTa4AbNzVGU.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_j3zSxzJ3HdvrZRtxRGIGeGgaquc0DWpHNhK0KSBylRw.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j3zSxzJ3HdvrZRtxRGIGeGgaquc0DWpHNhK0KSBylRw.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_j8o5mVkSA9QNlugQHlHRnSAelLPrr0-yjhwnCSmJeIg.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j8o5mVkSA9QNlugQHlHRnSAelLPrr0-yjhwnCSmJeIg.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_jO_rWlmTi8cQQwOCi79necMHmwU66z6iJtG1S2eSddY.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_jO_rWlmTi8cQQwOCi79necMHmwU66z6iJtG1S2eSddY.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_lOlyB8Ik-LoQ7crWfehKCfZ3-6LVnwM_0Ouq5EhExyM.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_lOlyB8Ik-LoQ7crWfehKCfZ3-6LVnwM_0Ouq5EhExyM.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_nlqeoFEJ1mZj2yRFJNfsvD5x6MUou13u8455IEZ8SNw.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_nlqeoFEJ1mZj2yRFJNfsvD5x6MUou13u8455IEZ8SNw.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_nmgCOdt4NptG75SVv6vcRXsHTlPfck_THktr_H354sI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_nmgCOdt4NptG75SVv6vcRXsHTlPfck_THktr_H354sI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_oaRcOVAE1DZEFeEmNDBl2GdZGJXXUua_50GSgr_MI1I.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_oaRcOVAE1DZEFeEmNDBl2GdZGJXXUua_50GSgr_MI1I.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_p6W_q7wWM9Y4nQZz66tWdMsK6YKnnAaHbCseW-FBbr4.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_p6W_q7wWM9Y4nQZz66tWdMsK6YKnnAaHbCseW-FBbr4.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_sSPHDTODCz8KT3M6AO6pC8BG9E7iv6cz5tYG3PJ6CxI.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sSPHDTODCz8KT3M6AO6pC8BG9E7iv6cz5tYG3PJ6CxI.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_sglfWVOe0fdlTmXmnCaGl8VgCQPUqJS_S9h-lJDNX4c.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sglfWVOe0fdlTmXmnCaGl8VgCQPUqJS_S9h-lJDNX4c.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_u16GL28_i5Wi0qRSFfXx0N41QpAQmKp4snXquC30ukc.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_u16GL28_i5Wi0qRSFfXx0N41QpAQmKp4snXquC30ukc.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_uqmCBbyAKgri_bcsAz_Uvnl28WOXfqnOOSkKKUiGmcQ.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_uqmCBbyAKgri_bcsAz_Uvnl28WOXfqnOOSkKKUiGmcQ.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vcMK8Ebmavv7Dj9wV0r3dbLmKV69DxWP1IPs5uhb_Iw.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_vcMK8Ebmavv7Dj9wV0r3dbLmKV69DxWP1IPs5uhb_Iw.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vsrAvCQKjhRqMCSxmUqtIMkD6nUsGY_QBsrjxJCTLz4.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_vsrAvCQKjhRqMCSxmUqtIMkD6nUsGY_QBsrjxJCTLz4.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_w9s4PmZtwn0hX2JFPSK6wpcKzQawh-okVUidzZC7Jjc.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_w9s4PmZtwn0hX2JFPSK6wpcKzQawh-okVUidzZC7Jjc.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_xvA59mcbMge1VRoedkuUO1H1Rv8aiYMAzFsPmM3Lliw.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_xvA59mcbMge1VRoedkuUO1H1Rv8aiYMAzFsPmM3Lliw.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_yhT5jHyMF1d3Mka17FdY8CF2wdHEMddtAR-oSSuX91g.js.gz" afterPath="$PROJECT_DIR$/sites/default/files/js/js_yhT5jHyMF1d3Mka17FdY8CF2wdHEMddtAR-oSSuX91g.js.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/default_images/нет фото.jpg" afterPath="$PROJECT_DIR$/sites/default/files/styles/thumbnail/public/default_images/нет фото.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/.htaccess" afterPath="$PROJECT_DIR$/sites/default/files/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/config_wl3BChPonq7dSXCLNLeeUPWoyBUzxUG7cKw9tXqzGLJikXwl_JnwyveHwE-RuDqWOkwM5JMgqg/sync/.htaccess" afterPath="$PROJECT_DIR$/sites/default/files/config_wl3BChPonq7dSXCLNLeeUPWoyBUzxUG7cKw9tXqzGLJikXwl_JnwyveHwE-RuDqWOkwM5JMgqg/sync/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/config_wl3BChPonq7dSXCLNLeeUPWoyBUzxUG7cKw9tXqzGLJikXwl_JnwyveHwE-RuDqWOkwM5JMgqg/sync/README.txt" afterPath="$PROJECT_DIR$/sites/default/files/config_wl3BChPonq7dSXCLNLeeUPWoyBUzxUG7cKw9tXqzGLJikXwl_JnwyveHwE-RuDqWOkwM5JMgqg/sync/README.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-db-D43F5SjerfFgt4qGDQfTmc7HkKdhQkRfJd0aqMw.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_-db-D43F5SjerfFgt4qGDQfTmc7HkKdhQkRfJd0aqMw.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_-yr5v9FuA47aCqUxllr_dTSAgZRmHRTw_xvA67gmDwQ.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_-yr5v9FuA47aCqUxllr_dTSAgZRmHRTw_xvA67gmDwQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_0chNz9i7tjWrh9dQHcO_27r-gmtVG1QklR1SK_rbkko.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_0chNz9i7tjWrh9dQHcO_27r-gmtVG1QklR1SK_rbkko.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1Mg5tJXA5zj-qJLU_rGilES36LlvZIK8xXbUgEPQ8BE.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_1Mg5tJXA5zj-qJLU_rGilES36LlvZIK8xXbUgEPQ8BE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_1jwdKG0drU0dEWeuy15IEFAsPzLRfrdhuXzCkfBlmlQ.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_1jwdKG0drU0dEWeuy15IEFAsPzLRfrdhuXzCkfBlmlQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_3Z1X5PR304vRfVjs2TtIRN90OWo_9WOqXfXX0YIUI1U.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_3Z1X5PR304vRfVjs2TtIRN90OWo_9WOqXfXX0YIUI1U.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_4jlpkrFD9ks5-MPdzvmCpnvz226N8t4STgPmZqESAtg.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_4jlpkrFD9ks5-MPdzvmCpnvz226N8t4STgPmZqESAtg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_4tjEt6aOuGNNr3cQPBFs1PurB9TWxjflOUQ29WPmNYE.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_4tjEt6aOuGNNr3cQPBFs1PurB9TWxjflOUQ29WPmNYE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_7YnzsU3MS9w1I7ixZmACdVYnbVmM3Hj3tfQaearo0XY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_7YnzsU3MS9w1I7ixZmACdVYnbVmM3Hj3tfQaearo0XY.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BIkxQ7pqcb4eaNWPxDpx93etbpo4o2oIbGasaSVhMho.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BIkxQ7pqcb4eaNWPxDpx93etbpo4o2oIbGasaSVhMho.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BfjOwXcgGAM0Y-DlGD1bGiFd-lARmmGeNTI73ZomQLY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BfjOwXcgGAM0Y-DlGD1bGiFd-lARmmGeNTI73ZomQLY.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_BswT4fWLsqDP2iVwCxtAbYVpPwp7SD0dx9Xx_kZnWEg.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_BswT4fWLsqDP2iVwCxtAbYVpPwp7SD0dx9Xx_kZnWEg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_CmoEDS8gqWSxK_DgruRl4CEuNqwTvuR-ABsvfoV525I.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_CmoEDS8gqWSxK_DgruRl4CEuNqwTvuR-ABsvfoV525I.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DEaBIrdT2jJoXosZSIYd9p3-F_ANQuB5yQuFKNLA-9w.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_DEaBIrdT2jJoXosZSIYd9p3-F_ANQuB5yQuFKNLA-9w.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_DeDIqlm_nVQ2ctZSUTJBbUwkQ7d95jBHBYRG8rSKS_w.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_DeDIqlm_nVQ2ctZSUTJBbUwkQ7d95jBHBYRG8rSKS_w.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_EXDJi965s0c5VF0i5v9gumbPnE_EMaMzGuMvhRCxki0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Ea5K-Au8cOlbEw7mPrsKDUVy6hDoXjaoj6lBjqUZ2AU.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Ea5K-Au8cOlbEw7mPrsKDUVy6hDoXjaoj6lBjqUZ2AU.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GttAslDTtDBkhBpNpvQnXVzRMQLC2LyoDkVNdTzKZXc.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_GttAslDTtDBkhBpNpvQnXVzRMQLC2LyoDkVNdTzKZXc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_GzMe01EXQUNrC28hxpVKTHZaF06DhktUJBI4MLvXp6Y.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_GzMe01EXQUNrC28hxpVKTHZaF06DhktUJBI4MLvXp6Y.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_H83Tj26gsKMBiczwb3LAltHkU7mh9kQOdYkfVeualro.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_H83Tj26gsKMBiczwb3LAltHkU7mh9kQOdYkfVeualro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_HEujAGMSLCA9t0LS-rixUisnxptR_W8qmPayH0sHDGs.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_HEujAGMSLCA9t0LS-rixUisnxptR_W8qmPayH0sHDGs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_KNoeztO077XS8k0WRBaZqKBtEePcxeHYeAkkh0k0tco.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_KNoeztO077XS8k0WRBaZqKBtEePcxeHYeAkkh0k0tco.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_KZgfCfdWl1J_nEivjr3gc_RILZsHB9UvWorRdVZ_t84.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_KZgfCfdWl1J_nEivjr3gc_RILZsHB9UvWorRdVZ_t84.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_LR8eStIhHkgD_Xg-iO6d1X2IEBSWj1LAwfQbKyZ2tWg.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_LR8eStIhHkgD_Xg-iO6d1X2IEBSWj1LAwfQbKyZ2tWg.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_M080R7_SVLQj-vQUPBkzTdUMBt9zpuLEslrNrS6T9uw.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_M080R7_SVLQj-vQUPBkzTdUMBt9zpuLEslrNrS6T9uw.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_MnLILbMerWoU3c3iinf8BNTvt83chKLiozkq15t6h-A.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_MnLILbMerWoU3c3iinf8BNTvt83chKLiozkq15t6h-A.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_NyeBxpBFWIqHPeCyFiFJ_S5QcYQ51AabaAtg50jZGJs.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_NyeBxpBFWIqHPeCyFiFJ_S5QcYQ51AabaAtg50jZGJs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_OGiByx2DQLtl4QLt2N7AovVJ8Vl79pDGWpl5sYMQ4HM.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_OGiByx2DQLtl4QLt2N7AovVJ8Vl79pDGWpl5sYMQ4HM.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_POGnGDAtUe92uNk7yFRmXM4MGm1MjoYbPicTOMK0fg0.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_POGnGDAtUe92uNk7yFRmXM4MGm1MjoYbPicTOMK0fg0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QLNm4Xq1REgh49mORkvO5jvU39ZLLEX7-vlsdb0UX5s.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QLNm4Xq1REgh49mORkvO5jvU39ZLLEX7-vlsdb0UX5s.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QO9kGapFN3_MvJmtN23_293O5nwKF7NNWd-IWujbD7Q.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QO9kGapFN3_MvJmtN23_293O5nwKF7NNWd-IWujbD7Q.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QXlByiGyyAyNSntuarO-yKvxLfYzR-Ey2MB5mj-zkiY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QXlByiGyyAyNSntuarO-yKvxLfYzR-Ey2MB5mj-zkiY.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_QgDdJ-QeQlBVlGH71iXvNrveKLJ7rI95ENbruL_8U20.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_S1OWquXnSpQYWceaOw3s_MFbUsC_zTzOX3HGrIkb4sY.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Sftvb8ejSl0EyZFNe2QwHfl_fRZuhyzZU0EZcXwvgnM.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ShdzaONY9Bl0G5VLvYNR9IvrBOmFuAV8aaEXRqi9YNc.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ShdzaONY9Bl0G5VLvYNR9IvrBOmFuAV8aaEXRqi9YNc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_TFcLTkOf7lNj_rRpaNUrT7KP0LKzX5XZk6HpyX5Iezo.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_TFcLTkOf7lNj_rRpaNUrT7KP0LKzX5XZk6HpyX5Iezo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_UW-EZdP2Ys1FcfgwAnm7ysPNgkEvsGAO84hS08wwb-o.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_UW-EZdP2Ys1FcfgwAnm7ysPNgkEvsGAO84hS08wwb-o.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Va4zLdYXDM0x79wYfYIi_RSorpNS_xtrTcNUqq0psQA.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Wg34WyDHGNPP0G1D7e3BhwhAw4hI78YH8-RmJw9cQI4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Wg34WyDHGNPP0G1D7e3BhwhAw4hI78YH8-RmJw9cQI4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_XYPDMDa6y2b8UjWq7N81VN-DAF6p2RssxiQa8X3VLYQ.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_XYPDMDa6y2b8UjWq7N81VN-DAF6p2RssxiQa8X3VLYQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y-u2kM0y2e_onLFIaeVUsdJEKbCAU7D5TIbzHfAPKu4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Y-u2kM0y2e_onLFIaeVUsdJEKbCAU7D5TIbzHfAPKu4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Y1c-APRj_FMiGNCnRQ39lK70QFs97rQGVuar2KiyeBU.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Y1c-APRj_FMiGNCnRQ39lK70QFs97rQGVuar2KiyeBU.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ZiCjsJGW1w-7BHxjkXfeMJqoM6Sn01Ia_PZJQt3EiCc.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ZiCjsJGW1w-7BHxjkXfeMJqoM6Sn01Ia_PZJQt3EiCc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css___Mpn3sYrrQ9dTHQluVjGiLRp6MBxqaJQxYb6Gs2S04.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css___Mpn3sYrrQ9dTHQluVjGiLRp6MBxqaJQxYb6Gs2S04.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css__kO8eUP86xGL6jEnXD6g_qefGSpHQo8iozE7Tz6rfJ4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css__kO8eUP86xGL6jEnXD6g_qefGSpHQo8iozE7Tz6rfJ4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_aLx3YSD90mI9oafHiW_kQkv4pXvEBu7ZLbbTv_dpuGA.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_aLx3YSD90mI9oafHiW_kQkv4pXvEBu7ZLbbTv_dpuGA.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_as_C8njGQVTtiHPwQ1DvL0YDZnV2Y7wZnfPWspex89U.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_as_C8njGQVTtiHPwQ1DvL0YDZnV2Y7wZnfPWspex89U.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_dI11FLLY7plCZOXjSOd8R5KqMubGYhPlUYO6xSsRDb0.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_dI11FLLY7plCZOXjSOd8R5KqMubGYhPlUYO6xSsRDb0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_e3G32kO3C7vzB8x2SsWqujq5-EAj5ebn8yBvn2LQr24.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_e3G32kO3C7vzB8x2SsWqujq5-EAj5ebn8yBvn2LQr24.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eAYMgO-152TQwXXIdfUPQVHo29__oZQx4SUo8uyV0NU.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eAYMgO-152TQwXXIdfUPQVHo29__oZQx4SUo8uyV0NU.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eJh97_-Mh6QktTApmm_ydVkxtWe6bBy-wIal1sOk_7k.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eJh97_-Mh6QktTApmm_ydVkxtWe6bBy-wIal1sOk_7k.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eQcrpm_mYRX3Oacl2MuU-rZJb1SmN6vBjL_NovTifcQ.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eQcrpm_mYRX3Oacl2MuU-rZJb1SmN6vBjL_NovTifcQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_eTrYbPECfMNWjArwuULVYtR7FqgXbeD_B4kOP2Dy6Ec.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_eTrYbPECfMNWjArwuULVYtR7FqgXbeD_B4kOP2Dy6Ec.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_g-CnOz-FiumemvWAs70wtcrrBdSSzWRWpBsos0jZyTk.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_g-CnOz-FiumemvWAs70wtcrrBdSSzWRWpBsos0jZyTk.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_gKFwN1nC9BveaIDBm1EHkpTUPB5uRLuM4P5TlBfeGW4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_gKFwN1nC9BveaIDBm1EHkpTUPB5uRLuM4P5TlBfeGW4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_gyla5VnHOo5dC-n7ULVz_lKSSf0KwrZRgqHxw7ZCGMA.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_gyla5VnHOo5dC-n7ULVz_lKSSf0KwrZRgqHxw7ZCGMA.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_hxDt0Ya7-4tO26bBr_x5_HJ6elPNoRhl4T3hz1lctN0.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_hxDt0Ya7-4tO26bBr_x5_HJ6elPNoRhl4T3hz1lctN0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_jJtE-nDH2-5C6lGQTQUD8OZu6XvpM8aQ-C_3wFITyB4.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_jJtE-nDH2-5C6lGQTQUD8OZu6XvpM8aQ-C_3wFITyB4.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_jjuMy5PSRqWrk5PO1qc2xPC7Rw0Va_ywIviZ5yDNmyE.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_jjuMy5PSRqWrk5PO1qc2xPC7Rw0Va_ywIviZ5yDNmyE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_lll8FX9eoz5tNNG92I0-Tw-HolDvYNfkIO6Esv-1pQE.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_lll8FX9eoz5tNNG92I0-Tw-HolDvYNfkIO6Esv-1pQE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_mXyk_ET1j0oQS97qAccqHtOxn-21f8f9PeabB5s5OTE.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_mYDsFum685tiA0QekSf-9SfauB2RAwybHb80HITJOBQ.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_mYDsFum685tiA0QekSf-9SfauB2RAwybHb80HITJOBQ.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ms2lS1IZPPwb1vU_MhRBuaqiSwMORO5jN34_jCjQah8.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ms2lS1IZPPwb1vU_MhRBuaqiSwMORO5jN34_jCjQah8.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ois7rXTgr1KqN0Vs-O1lHHvpJTduMx9-7onGf7-9XH0.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ois7rXTgr1KqN0Vs-O1lHHvpJTduMx9-7onGf7-9XH0.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_ouWVqWe8oQINNZkwd7uxGZxJsu5z7Ze1MKNbKj4Jv8g.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_ouWVqWe8oQINNZkwd7uxGZxJsu5z7Ze1MKNbKj4Jv8g.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_rz62QHLW1cY3IaXV6CmUWaTyHHjPQr2s_Rjta160nak.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_rz62QHLW1cY3IaXV6CmUWaTyHHjPQr2s_Rjta160nak.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_v1Kz_3xiYZnU8dfHcOdP_D5OQA8nqrC8ZTyuNBn1JJc.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_v1Kz_3xiYZnU8dfHcOdP_D5OQA8nqrC8ZTyuNBn1JJc.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/css/css_wWTSDxQQ3LgmYj8mDhObOX5Hnx92pk2gzb6pNWPpfMk.css" afterPath="$PROJECT_DIR$/sites/default/files/css/css_wWTSDxQQ3LgmYj8mDhObOX5Hnx92pk2gzb6pNWPpfMk.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_--B8fGvBI7rf0cy3lf6R1VtvrbYoFcPONLz7PMa6-6U.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_--B8fGvBI7rf0cy3lf6R1VtvrbYoFcPONLz7PMa6-6U.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-26GtvryYJgJgbSXdmNvtldGsfbPTiX7kdOF3uQwUts.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-26GtvryYJgJgbSXdmNvtldGsfbPTiX7kdOF3uQwUts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-Ys3NScM2RSlCah27XP9ZXirAa0sv9SJEnYtIDbqokE.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-Ys3NScM2RSlCah27XP9ZXirAa0sv9SJEnYtIDbqokE.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_-hQYVwggznAoM0Mpb6TeBUpjH4RjfGNYLM7edDboGGQ.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_-hQYVwggznAoM0Mpb6TeBUpjH4RjfGNYLM7edDboGGQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_296krtqcBEqbD7VThLmnyV_LBU3sWzshCmqcWw9ES8Y.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_296krtqcBEqbD7VThLmnyV_LBU3sWzshCmqcWw9ES8Y.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_3NDZVAVkrr7t0MnBaWiK0SY5x0dNMgCMIA2SFN_xGIM.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_3NDZVAVkrr7t0MnBaWiK0SY5x0dNMgCMIA2SFN_xGIM.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_8Shnm6BmvDEbiSIZkOYiryfbMyXs5ihBo4WByMgm1UI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_8Shnm6BmvDEbiSIZkOYiryfbMyXs5ihBo4WByMgm1UI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_8jWppP6iEeMEGa05y9oz_-iH_AnMbsPrkkYgGCJPst8.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_8jWppP6iEeMEGa05y9oz_-iH_AnMbsPrkkYgGCJPst8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_CIr5ug47SQV6ogRQJYjQjCXHDWyx_6936RZZ2pD5YqA.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_CIr5ug47SQV6ogRQJYjQjCXHDWyx_6936RZZ2pD5YqA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Csx8sv88En5rzH79XfOaQjVFz_YgBiVyf4CS60lI4L8.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Csx8sv88En5rzH79XfOaQjVFz_YgBiVyf4CS60lI4L8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_DGFmpro3z_7Qoda7Gb7TLH7tf9aoBC_h-G1N8ahQvSI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_DGFmpro3z_7Qoda7Gb7TLH7tf9aoBC_h-G1N8ahQvSI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_E2_Hfv_ngz3Vte-yM8z9dYWYBfCEPxPjSwFPkWw0zps.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_E2_Hfv_ngz3Vte-yM8z9dYWYBfCEPxPjSwFPkWw0zps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Iew9E2rfp8d0Rddp3tpBBwhyuGYuGZTtlcq5kf20w9c.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Iew9E2rfp8d0Rddp3tpBBwhyuGYuGZTtlcq5kf20w9c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Jp0lFWn0JiEn-GyugX-2cErJPLh7N7iJz-qjcklfimY.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Jp0lFWn0JiEn-GyugX-2cErJPLh7N7iJz-qjcklfimY.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_M8sd3hhp9XTOdJLHX1UJcUfD2gtcHsr4GotEnov38Oo.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_M8sd3hhp9XTOdJLHX1UJcUfD2gtcHsr4GotEnov38Oo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_MW3xI_5053OraNROyjyyNeX0nwtYyUrV3Hoa121Hdq0.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_MW3xI_5053OraNROyjyyNeX0nwtYyUrV3Hoa121Hdq0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_NMRRhb0nelGJUJIamL02h1d6UlwJLmr8dFn7dMiTOVc.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_NMRRhb0nelGJUJIamL02h1d6UlwJLmr8dFn7dMiTOVc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_NaV6DzXowITOxIupAf3KifcNMZU7lNNLKjm8pK4QGzk.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_NaV6DzXowITOxIupAf3KifcNMZU7lNNLKjm8pK4QGzk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Nt7XM0XWMfeCEHd48BDHexbIpz3G-BVrec-XGZ7D0vI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Nt7XM0XWMfeCEHd48BDHexbIpz3G-BVrec-XGZ7D0vI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Ozvma01e5P8nB1OkN09shdPJCBVSXAW2hcyjpPa05QU.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Ozvma01e5P8nB1OkN09shdPJCBVSXAW2hcyjpPa05QU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_PabsqIK3J9jYxHdJYkkD-fwzp6QF4zpk5zc5M7oNl64.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_PabsqIK3J9jYxHdJYkkD-fwzp6QF4zpk5zc5M7oNl64.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Q3u0TBY37_EQfGDXxfn1NRLDOGPGvkkKWtBSWk6CN9U.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Q3u0TBY37_EQfGDXxfn1NRLDOGPGvkkKWtBSWk6CN9U.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_QjGOKB30YQ7Y5h53ZA5qJ8gy3Dw3P8wfW4jKVpOeXgI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_QjGOKB30YQ7Y5h53ZA5qJ8gy3Dw3P8wfW4jKVpOeXgI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_R57gcrinKnvt6v71P3uLtTzXYgtyvjEgPqYqPLBbPyg.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_R57gcrinKnvt6v71P3uLtTzXYgtyvjEgPqYqPLBbPyg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Tu7A9YsCGJq8tQwSE1XeOVhTlLGG3OJm_5d1vnNQwog.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Tu7A9YsCGJq8tQwSE1XeOVhTlLGG3OJm_5d1vnNQwog.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_UQCIRYNd4vgtIIgWkz3L0Fm1RarF_3aNzHxEGOCWcOo.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_UQCIRYNd4vgtIIgWkz3L0Fm1RarF_3aNzHxEGOCWcOo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VhqXmo4azheUjYC30rijnR_Dddo0WjWkF27k5gTL8S4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_YplzkhmhbMJlhUpZmYwgBxsp7Gwg9nn7BCIx3xGCL5o.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_YplzkhmhbMJlhUpZmYwgBxsp7Gwg9nn7BCIx3xGCL5o.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_Z8NxeuwiZiH92nvR7X001LGFCDWSYzv7W-U1JBZhuyc.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_Z8NxeuwiZiH92nvR7X001LGFCDWSYzv7W-U1JBZhuyc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_ZGX7JztyfCYT-a3Dk-AjLSnRv1ITrqW-NdnUMjksUuA.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_ZGX7JztyfCYT-a3Dk-AjLSnRv1ITrqW-NdnUMjksUuA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_cupnwWB1To_q15D_Fb8uCaru2QlFb57tfonBliSVVzQ.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_cupnwWB1To_q15D_Fb8uCaru2QlFb57tfonBliSVVzQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dIs9FyfjDur7u7ub6LcWg8H0WmjGE-6TkOZCeK2JCOk.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_dIs9FyfjDur7u7ub6LcWg8H0WmjGE-6TkOZCeK2JCOk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_dmxQl2UqCx8a4hhLitFCWMpE1quzREIqTaT8rNYLmKM.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_dmxQl2UqCx8a4hhLitFCWMpE1quzREIqTaT8rNYLmKM.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_ewkxwP_uToNARODqdbpnYQZ2BrsQR7RPhvd2zDMTKjo.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_ewkxwP_uToNARODqdbpnYQZ2BrsQR7RPhvd2zDMTKjo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fIn9f0odLd1mC8QsE8yDzHZeb6Tjv4HvWFwU3tR9QU4.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_fIn9f0odLd1mC8QsE8yDzHZeb6Tjv4HvWFwU3tR9QU4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_fOqlCFXWwgynNey5PwuyPVxKH2nuck8pnrNJHXU218g.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_god7UWfaArsiKIsTydCGgDdcBnoyA7j1AI7Ob8TG_JQ.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_god7UWfaArsiKIsTydCGgDdcBnoyA7j1AI7Ob8TG_JQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_gwywn0KamqetiMTdVvwTgXpYtFw_4atclMNw6Mw5B1c.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_gwywn0KamqetiMTdVvwTgXpYtFw_4atclMNw6Mw5B1c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hkhWpU74bM_9inKIZi_PpAGXXVU818I2iiTXlubJnMA.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hkhWpU74bM_9inKIZi_PpAGXXVU818I2iiTXlubJnMA.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hmbkV5CQ4vcH-ozaLF8i7wcwqtFnNaGoGijgUzHqYiU.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hmbkV5CQ4vcH-ozaLF8i7wcwqtFnNaGoGijgUzHqYiU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hrEDbvvvmbWNBxfRu_4tayYoYdJyMjj-n3VYsodnBrM.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hrEDbvvvmbWNBxfRu_4tayYoYdJyMjj-n3VYsodnBrM.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_hxJMUb8JGwnlToIRw_t1lPWn2rM59O0BcQhOeTC8hTQ.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_hxJMUb8JGwnlToIRw_t1lPWn2rM59O0BcQhOeTC8hTQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_iJF2FoI1jBKkJscuElEh44qYn0Kj7_TQHTa4AbNzVGU.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_iJF2FoI1jBKkJscuElEh44qYn0Kj7_TQHTa4AbNzVGU.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_j3zSxzJ3HdvrZRtxRGIGeGgaquc0DWpHNhK0KSBylRw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j3zSxzJ3HdvrZRtxRGIGeGgaquc0DWpHNhK0KSBylRw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_j8o5mVkSA9QNlugQHlHRnSAelLPrr0-yjhwnCSmJeIg.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_j8o5mVkSA9QNlugQHlHRnSAelLPrr0-yjhwnCSmJeIg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_jO_rWlmTi8cQQwOCi79necMHmwU66z6iJtG1S2eSddY.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_jO_rWlmTi8cQQwOCi79necMHmwU66z6iJtG1S2eSddY.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_lOlyB8Ik-LoQ7crWfehKCfZ3-6LVnwM_0Ouq5EhExyM.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_lOlyB8Ik-LoQ7crWfehKCfZ3-6LVnwM_0Ouq5EhExyM.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_nlqeoFEJ1mZj2yRFJNfsvD5x6MUou13u8455IEZ8SNw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_nlqeoFEJ1mZj2yRFJNfsvD5x6MUou13u8455IEZ8SNw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_nmgCOdt4NptG75SVv6vcRXsHTlPfck_THktr_H354sI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_nmgCOdt4NptG75SVv6vcRXsHTlPfck_THktr_H354sI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_oaRcOVAE1DZEFeEmNDBl2GdZGJXXUua_50GSgr_MI1I.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_oaRcOVAE1DZEFeEmNDBl2GdZGJXXUua_50GSgr_MI1I.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_p6W_q7wWM9Y4nQZz66tWdMsK6YKnnAaHbCseW-FBbr4.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_p6W_q7wWM9Y4nQZz66tWdMsK6YKnnAaHbCseW-FBbr4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_qT7Z3fepFOtPzmY30jtOF_rfKihx97pITkx0QK3bkfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_sSPHDTODCz8KT3M6AO6pC8BG9E7iv6cz5tYG3PJ6CxI.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sSPHDTODCz8KT3M6AO6pC8BG9E7iv6cz5tYG3PJ6CxI.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_sglfWVOe0fdlTmXmnCaGl8VgCQPUqJS_S9h-lJDNX4c.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_sglfWVOe0fdlTmXmnCaGl8VgCQPUqJS_S9h-lJDNX4c.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_u16GL28_i5Wi0qRSFfXx0N41QpAQmKp4snXquC30ukc.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_u16GL28_i5Wi0qRSFfXx0N41QpAQmKp4snXquC30ukc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_uqmCBbyAKgri_bcsAz_Uvnl28WOXfqnOOSkKKUiGmcQ.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_uqmCBbyAKgri_bcsAz_Uvnl28WOXfqnOOSkKKUiGmcQ.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vcMK8Ebmavv7Dj9wV0r3dbLmKV69DxWP1IPs5uhb_Iw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_vcMK8Ebmavv7Dj9wV0r3dbLmKV69DxWP1IPs5uhb_Iw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_vsrAvCQKjhRqMCSxmUqtIMkD6nUsGY_QBsrjxJCTLz4.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_vsrAvCQKjhRqMCSxmUqtIMkD6nUsGY_QBsrjxJCTLz4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_w9s4PmZtwn0hX2JFPSK6wpcKzQawh-okVUidzZC7Jjc.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_w9s4PmZtwn0hX2JFPSK6wpcKzQawh-okVUidzZC7Jjc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_xvA59mcbMge1VRoedkuUO1H1Rv8aiYMAzFsPmM3Lliw.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_xvA59mcbMge1VRoedkuUO1H1Rv8aiYMAzFsPmM3Lliw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/default/files/js/js_yhT5jHyMF1d3Mka17FdY8CF2wdHEMddtAR-oSSuX91g.js" afterPath="$PROJECT_DIR$/sites/default/files/js/js_yhT5jHyMF1d3Mka17FdY8CF2wdHEMddtAR-oSSuX91g.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="blue.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/aegan/css/blue.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2265">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/aegan/css/default.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231">
+              <caret line="128" column="27" lean-forward="false" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/aegan/css/default.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1345" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aegan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tehelektra" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aegan" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dcf5ba7-b1c6-4014-a0b3-f86ef7c67cb5" name="Default" comment="" />
+      <created>1497450900291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497450900291</updated>
+      <workItem from="1497450904522" duration="851000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="851000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1345" y="24" width="1215" height="1000" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/aegan/css/blue.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2265">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/aegan/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231">
+          <caret line="128" column="27" lean-forward="false" selection-start-line="128" selection-start-column="27" selection-end-line="128" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
