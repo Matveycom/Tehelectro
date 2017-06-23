@@ -111,7 +111,7 @@ h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hov
   border: 1px solid #077108;
 }
 .node__content .node__links li a {
-  background-color: #000;
+  background-color: #077108;
   color: #fff;
 }
 .node__content .node__links li a:before {
@@ -151,7 +151,7 @@ h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hov
   background: #024483;
 }
 table {
-  border-color: #000;
+  border-color: #077108;
 }
 .block>h2,
 .block .block-title,
