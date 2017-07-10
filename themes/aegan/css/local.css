@@ -1,0 +1,35 @@
+.search-block-form{
+    /*float: left;*/
+    margin: 20px 5em 10px 5em;
+    width: 200px;
+    display: inline-block;
+    position: inherit;
+    vertical-align: top;
+}
+.region-header-right {
+    float: none;
+}
+.phone-header{
+    width: 200px;
+    display: inline-block;
+    right: 2em;
+    margin: 0 5em;
+    text-align: center;
+}
+.phone-header p {
+    text-align:center;
+    font-family:"Times New Roman",Times,serif;
+    font-size: 1.5em;
+    color: red;
+
+}
+#sitename {
+    text-align: center;
+    color: #005d01;
+    font-size: x-large;
+    font-family:"Times New Roman",Times,serif;
+    vertical-align: bottom;
+    margin-top: 20px;
+    word-wrap: break-word;
+    width: 200px;
+}

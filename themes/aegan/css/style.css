@@ -99,7 +99,7 @@ img {
   padding-top: 20px;
 }
 .region-header-right {
-  float: right;
+  float: left;
 }
 /* Site Branding */
 .site-logo img {

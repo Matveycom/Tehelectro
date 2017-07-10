@@ -5,6 +5,9 @@ global-css:
      css/font-awesome.min.css: {}
      css/flexslider.css: {}
      css/style.css: {}
+     css/local.css: {}
+
+
   js:
     js/jquery.flexslider-min.js: {}
     js/jquery.smooth-scroll.js: {}
