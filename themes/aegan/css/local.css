@@ -27,23 +27,29 @@
 
 }
 
-/*назва сайта*/
-#sitename {
+
+/*title*/
+#block-pagetitle {
+    font-weight: 700;
     text-align: center;
-    color: #005d01;
-    font-size: x-large;
-    font-family:"Times New Roman",Times,serif;
-    vertical-align: bottom;
-    margin-top: 20px;
-    word-wrap: break-word;
-    width: 200px;
+    font-size:1.5em;
+    margin: 20px;
+    color: #0a9c0b;
 }
+/*title сторінка товару*/
+#block-title {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    text-align: center;
+
+}
+
 .views-field {
     margin: 10px;
     color: red;
 
 }
-/*текст главної сторінки*/
+/*текст в блоці главної сторінки*/
 .field-content {
     color: grey;
 
@@ -54,12 +60,9 @@
     /*margin: 10px;*/
 
 }
-
+/*отображение на главній сторінці блоків*/
 .views-row img {
     max-width: 90%;
-    /*min-width: 100px;*/
-    /*margin: 10px;*/
-
 }
 .block-content, .credits {
     color: #005596;
@@ -68,11 +71,7 @@
     margin-top: 100px;
 }
 
-.field--name-title {
-    font-size:2em;
-    margin: 20px;
-    color: #0a9c0b;
-}
+
 .field__item + .field__item {
     display: inline-block;
 }
@@ -84,12 +83,13 @@
 }
 /*телефон футер*/
 #block-telefon-2 {
-    margin-left: 20%;
+    /*float: right;*/
+    margin-left: 20vw;
+    margin-right: 3em;
     display: inline-block;
     text-align:center;
     font-family:"Times New Roman",Times,serif;
     font-size: 1.5em;
-    /*color: red;*/
 }
 .copyright {
     display: inline-block;
@@ -153,7 +153,7 @@
     font-size: 1.8rem;
     color: #0a9c0b;
 }
-Розпродаж
+/*Розпродаж*/
 .field--name-field-rozprodaz {
     text-align: center;
     color: orange;
@@ -180,17 +180,15 @@
 .field--name-field-virobnik .field__item {
     font-size: large;
 }
+.view-virobniki .view-content .views-field {
+    margin: 0;
+}
+
 /*файл опису*/
  .file--text{
     font-size: 1.5em;
  }
  /*фото*/
-@media screen and (max-width: 580px) {
-    .image-style-_0-80 {
-    width: 50px;
-    height: 50px;
-    }
-}
 
 /*сторінка розпродаж*/
 .view-rozprodaz {
@@ -200,10 +198,50 @@
 .view-content .views-row {
     display: inline-block;
 }
+/*logo*/
+.block-content #logo .site-logo img {
+    height: 100px;
+}
 
+/*logo*/
+@media screen and (max-width: 500px) {
+    .block-content #logo .site-logo img {
+        height: 75px;
+    }
+}
+/*назва сайта*/
+@media screen and (min-width: 350px) {
+    #sitename {
+        text-align: center;
+        color: #005d01;
+        font-size: x-large;
+        font-family: "Times New Roman", Times, serif;
+        vertical-align: bottom;
+        margin-top: 20px;
+        word-wrap: break-word;
+        width: 200px;
+    }
+}
+/*слоган*/
+@media screen and (max-width: 350px){
+    #sitename {
+        text-align: center;
+        font-size: large;
+        font-family:"Times New Roman",Times,serif;
+        /*vertical-align: bottom;*/
+        margin-top: 10px;
+        word-wrap: break-word;
+        width: 150px;}
+}
 /*отображение правого меню */
 @media screen and (max-width: 1000px) {
     #sidebar-second {
         display: none;
+    }
+}
+@media screen and (max-width: 580px) {
+    .image-style-_0-80 {
+        width: 50px;
+        height: 50px;
     }
 }
