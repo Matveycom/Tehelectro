@@ -1,3 +1,6 @@
+body {
+    background: #f1f1f1;
+}
 /*пошукова форма*/
 .search-block-form{
     /*float: left;*/
@@ -12,6 +15,7 @@
 }
 /*телефон хедер*/
 .phone-header{
+    color: #232323;
     width: 200px;
     display: inline-block;
     right: 2em;
@@ -23,7 +27,7 @@
     text-align:center;
     font-family:"Times New Roman",Times,serif;
     font-size: 1.5em;
-    color: red;
+    color: #232323;
 
 }
 
@@ -65,7 +69,8 @@
     max-width: 90%;
 }
 .block-content, .credits {
-    color: #005596;
+    color: #232323;
+
 }
 #block-views-block-tehelektra-block-1 {
     margin-top: 100px;
@@ -92,14 +97,21 @@
     font-size: 1.5em;
 }
 .copyright {
+    margin-left: 3vw;
     display: inline-block;
     color: #005596;
 }
 .developer {
+    margin-left: 20px;
     margin-right: 5%;
     display: inline-block;
     float: right;
     color: #005596;
+}
+/*Карта*/
+iframe{
+    width: 100%;
+    min-height: 200px;
 }
 /*кнопка контактної форми*/
 .use-ajax  {
@@ -142,15 +154,38 @@
 /*cхожі товари*/
 .related {
     display: inline-block;
-    width: 22%;
+    align-content: center;
+    width: 200px;
+    /*height: 260px;*/
     margin: 0 10px;
-    font-size: 100%;
+    /*font-size: 100%;*/
 }
 /*заголовок ʼсхожі товариʼ*/
 .view-content .related .views-field-title .field-content {
     font-style: normal;
     line-height: 0;
     font-size: 1.8rem;
+    color: #089c0b;
+    /*height: 40px;*/
+}
+.block-content .similar-products {
+    align-content: center;
+    margin-left: 3vw;
+}
+
+/*схожі товари*/
+.similar-products .related {
+    vertical-align: top;
+}
+.similar-products .field-content {
+    height: 150px;
+}
+.similar-products .related .views-field {
+    /*width: 150px;*/
+    height: 100%;
+    float: left;
+}
+.field--name-title {
     color: #0a9c0b;
 }
 /*Розпродаж*/
@@ -163,14 +198,35 @@
 /*заголовки  на сторінці товару (ціна, виробники і тд)*/
 .field__label {
     font-size: larger;
-    color: #306f30;
+    color: grey;
 }
-/*ціна*/
+/*ціна на сторінці продукту*/
 .field--name-field-cina .field__item{
     margin: 15px 0;
     font-size: 2.5em;
     font-weight: 900;
-    color: #94200b;
+    color: #000000;
+}
+/*меню категорії заголовок*/
+#block-kategorii-menu {
+
+    background: #0a9c0b;
+    color:white;
+    text-align: center;
+    display: block;
+    font-size: 1.3em;
+    margin: 0 0 -2px 0;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+/*меню категорії*/
+.menu li{
+    margin-left: 5px;
+    font-size: medium;
+}
+/*категорії блок на головній сторінці*/
+.kategorii-golovna{
+
 }
 /*Категорія*/
 .field--name-field-kategory .field__item {
@@ -180,8 +236,12 @@
 .field--name-field-virobnik .field__item {
     font-size: large;
 }
+.virobnuki .vurobnuki-menu .views-field-name{
+    font-size: medium;
+}
 .view-virobniki .view-content .views-field {
     margin: 0;
+
 }
 
 /*файл опису*/
@@ -198,9 +258,108 @@
 .view-content .views-row {
     display: inline-block;
 }
+/*сторінка каталога*/
+.catalog .view-content .views-row {
+    display: inline-block;
+    border: 2px solid #ededed;
+}
+.catalog .view-content .views-row:hover{
+    border: 2px solid #727272;
+
+
+}
+/*назва продукта на сторінці каталогу*/
+.title-products {
+    color:black;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: medium;
+    width: 180px;
+    height: 50px;
+    overflow: hidden;
+}
+.title-products a{
+    color:black;
+}
+.title-products a:hover {
+    color:#449D44;
+}
+/*кінець назви продукта*/
+
+/*ціна на сторінці каталогу*/
+.cina-content {
+    text-align: center;
+    color: #000000;
+    font-size: large;
+    height: 25px;
+}
+/*каталог вирівнювання по верху*/
+.view-content {
+    vertical-align: top;
+}
+/*розпродаж вирівнювання по верху*/
+.view-rozprodaz {
+    vertical-align: top;
+}
+/*foto каталога*/
+.foto-content {
+    height: 180px;
+}
 /*logo*/
 .block-content #logo .site-logo img {
     height: 100px;
+}
+/**/
+.js-form-submit .form-submit{
+    display: none;
+}
+/*футер блоки*/
+@media screen and (max-width: 1000px) {
+    /*футер блоки*/
+    .footer-block {
+        text-align: left;
+        background: #eaeaea;
+    }
+    .footer-block .views-field-body {
+        vertical-align: top;
+        display: inline-block;
+        /*height: 100px;*/
+        width: 200px;
+        margin: 1vw 0 0 0;
+    }
+}
+@media screen and (min-width: 1000px) {
+    /*футер блоки*/
+    .footer-block {
+        text-align: center;
+        background: #eaeaea;
+    }
+    .footer-block .views-field-body {
+        vertical-align: top;
+        display: inline-block;
+        /*height: 100px;*/
+        width: 16vw;
+        margin: 1vw 0 0 0;
+    }
+}
+/*футер блоки*/
+.footer-block .views-field-field-foto {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0;
+}
+
+/*футер блоки*/
+.footer-block .field-content {
+    font-size: small;
+    margin: 7px;
+}
+/*футер блоки*/
+.footer-block h4, .footer-block p {
+    text-align: left;
+    line-height: 20px;
+    color: #222222;
+    margin: 5px 0 0 0;
 }
 
 /*logo*/
