@@ -1,0 +1,339 @@
+body {
+    background: #f1f1f1;
+}
+
+/*текст в блоці главної сторінки*/
+.field-content {
+    color: grey;
+
+}
+
+/*!*отображение на главній сторінці блоків*!*/
+/*.views-row img {*/
+    /*max-width: 90%;*/
+/*}*/
+.block-content, .credits {
+    color: #232323;
+
+}
+#block-views-block-tehelektra-block-1 {
+    margin-top: 100px;
+}
+
+
+.field__item + .field__item {
+    display: inline-block;
+}
+.field__label {
+    display: inline-block;
+}
+#block-sitebranding{
+    display: inline-block;
+}
+/*телефон футер*/
+#block-telefon-2 {
+    /*float: right;*/
+    margin-left: 20vw;
+    margin-right: 3em;
+    display: inline-block;
+    text-align:center;
+    font-family:"Times New Roman",Times,serif;
+    font-size: 1.5em;
+}
+.copyright {
+    margin-left: 3vw;
+    display: inline-block;
+    color: #005596;
+}
+.developer {
+    margin-left: 20px;
+    margin-right: 5%;
+    display: inline-block;
+    float: right;
+    color: #005596;
+}
+/*Карта*/
+iframe{
+    width: 100%;
+    min-height: 200px;
+}
+/*кнопка контактної форми*/
+.use-ajax  {
+    margin: 0 32%;
+    padding: 0.7em 1em;
+    border: 1px solid #666;
+
+    display: inline-block;
+    /*float: right;*/
+    font-size: 130%;
+    color: white;
+    background: #0bb10d;
+}
+/*...при наведенні мишкою*/
+.use-ajax:hover {
+    background: #0de010;
+    border: 1px solid #666;
+}
+.gm-style-pbc {
+    width: 100px;
+    border: 10px;
+}
+            /*Сторінка товару*/
+
+/*кнопка контактної форми сторінки товара*/
+.page-node-type-produkcia .use-ajax {
+    margin: 0 ;
+    padding: 0.7em 1em;
+    border: 1px solid #666;
+    font-size: 130%;
+    color: white;
+    background: #0bb10d;
+}
+/*...при наведенні мишкою*/
+.page-node-type-produkcia .use-ajax:hover {
+    background: #0de010;
+    border: 1px solid #666;
+}
+
+/*cхожі товари*/
+.related {
+    display: inline-block;
+    align-content: center;
+    width: 200px;
+    /*height: 260px;*/
+    margin: 0 10px;
+    /*font-size: 100%;*/
+}
+/*заголовок ʼсхожі товариʼ*/
+.view-content .related .views-field-title .field-content {
+    font-style: normal;
+    line-height: 0;
+    font-size: 1.8rem;
+    color: #089c0b;
+    /*height: 40px;*/
+}
+.block-content .similar-products {
+    align-content: center;
+    margin-left: 3vw;
+}
+
+/*схожі товари*/
+.similar-products .related {
+    vertical-align: top;
+}
+.similar-products .field-content {
+    height: 150px;
+}
+.similar-products .related .views-field {
+    /*width: 150px;*/
+    height: 100%;
+    float: left;
+}
+.field--name-title {
+    color: #0a9c0b;
+}
+/*Розпродаж*/
+.field--name-field-rozprodaz {
+    text-align: center;
+    color: orange;
+    font-weight: 900;
+    font-size: 2rem;
+}
+/*заголовки  на сторінці товару (ціна, виробники і тд)*/
+.field__label {
+    font-size: larger;
+    color: grey;
+}
+/*ціна на сторінці продукту*/
+.field--name-field-cina .field__item{
+    margin: 15px 0;
+    font-size: 2.5em;
+    font-weight: 900;
+    color: #000000;
+}
+/*меню категорії заголовок*/
+#block-kategorii-menu {
+
+    background: #0a9c0b;
+    color:white;
+    text-align: center;
+    display: block;
+    font-size: 1.3em;
+    margin: 0 0 -2px 0;
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+
+/*Категорія*/
+.field--name-field-kategory .field__item {
+    font-size: large;
+}
+/*виробник*/
+.field--name-field-virobnik .field__item {
+    font-size: large;
+}
+.view-virobniki .view-content .views-field {
+    margin: 0;
+
+}
+
+/*файл опису*/
+ .file--text{
+    font-size: 1.5em;
+ }
+ /*фото*/
+
+/*сторінка розпродаж*/
+.view-rozprodaz {
+    display: inline-block;
+}
+/*сторінка контенту*/
+.view-content .views-row {
+    display: inline-block;
+}
+/*сторінка каталога*/
+.catalog .view-content .views-row {
+    display: inline-block;
+    border: 2px solid #ededed;
+}
+.catalog .view-content .views-row:hover{
+    border: 2px solid #727272;
+
+
+}
+/*назва продукта на сторінці каталогу*/
+.title-products {
+    color:black;
+    text-align: center;
+    word-wrap: break-word;
+    font-size: medium;
+    width: 180px;
+    height: 50px;
+    overflow: hidden;
+}
+.title-products a{
+    color:black;
+}
+.title-products a:hover {
+    color:#449D44;
+}
+/*кінець назви продукта*/
+
+/*ціна на сторінці каталогу*/
+.cina-content {
+    text-align: center;
+    color: #000000;
+    font-size: large;
+    height: 25px;
+}
+/*каталог вирівнювання по верху*/
+.view-content {
+    vertical-align: top;
+}
+/*розпродаж вирівнювання по верху*/
+.view-rozprodaz {
+    vertical-align: top;
+}
+/*foto каталога*/
+.foto-content {
+    height: 180px;
+}
+/*!*logo*!*/
+/*.block-content #logo .site-logo img {*/
+    /*height: 100px;*/
+/*}*/
+/**/
+.js-form-submit .form-submit{
+    display: none;
+}
+/*футер блоки*/
+@media screen and (max-width: 1000px) {
+    /*футер блоки*/
+    .footer-block {
+        text-align: left;
+        background: #eaeaea;
+    }
+    .footer-block .views-field-body {
+        vertical-align: top;
+        display: inline-block;
+        /*height: 100px;*/
+        width: 200px;
+        margin: 1vw 0 0 0;
+    }
+}
+@media screen and (min-width: 1000px) {
+    /*футер блоки*/
+    .footer-block {
+        text-align: center;
+        background: #eaeaea;
+    }
+    .footer-block .views-field-body {
+        vertical-align: top;
+        display: inline-block;
+        /*height: 100px;*/
+        width: 16vw;
+        margin: 1vw 0 0 0;
+    }
+}
+/*футер блоки*/
+.footer-block .views-field-field-foto {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 0;
+}
+
+/*футер блоки*/
+.footer-block .field-content {
+    font-size: small;
+    margin: 7px;
+}
+/*футер блоки*/
+.footer-block h4, .footer-block p {
+    text-align: left;
+    line-height: 20px;
+    color: #222222;
+    margin: 5px 0 0 0;
+}
+
+/*logo*/
+@media screen and (max-width: 500px) {
+    .block-content #logo .site-logo img {
+        height: 75px;
+    }
+}
+/*назва сайта*/
+@media screen and (min-width: 350px) {
+    #sitename {
+        text-align: center;
+        color: #005d01;
+        font-size: x-large;
+        font-family: "Times New Roman", Times, serif;
+        vertical-align: bottom;
+        margin-top: 20px;
+        word-wrap: break-word;
+        width: 200px;
+    }
+}
+/*слоган*/
+@media screen and (max-width: 350px){
+    #sitename {
+        text-align: center;
+        font-size: large;
+        font-family:"Times New Roman",Times,serif;
+        /*vertical-align: bottom;*/
+        margin-top: 10px;
+        word-wrap: break-word;
+        width: 150px;}
+}
+/*отображение правого меню */
+@media screen and (max-width: 1000px) {
+    #sidebar-second {
+        display: none;
+    }
+}
+@media screen and (max-width: 580px) {
+    /*.image-style-_0-80 {*/
+        /*width: 50px;*/
+        /*height: 50px;*/
+    /*}*/
+}
