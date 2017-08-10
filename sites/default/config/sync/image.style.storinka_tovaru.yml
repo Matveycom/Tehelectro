@@ -1,0 +1,14 @@
+uuid: ad5a1416-4a0f-46d0-a365-ee99890b699d
+langcode: uk
+status: true
+dependencies: {  }
+name: storinka_tovaru
+label: 'Сторінка товару'
+effects:
+  54679f29-ffd2-44c9-ba80-2e090109c660:
+    uuid: 54679f29-ffd2-44c9-ba80-2e090109c660
+    id: image_resize
+    weight: 1
+    data:
+      width: 250
+      height: 250

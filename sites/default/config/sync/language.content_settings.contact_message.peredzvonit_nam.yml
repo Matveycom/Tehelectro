@@ -1,0 +1,11 @@
+uuid: 92ba5bdd-c1ec-4230-a32c-fec9e9ed23dc
+langcode: uk
+status: true
+dependencies:
+  config:
+    - contact.form.peredzvonit_nam
+id: contact_message.peredzvonit_nam
+target_entity_type_id: contact_message
+target_bundle: peredzvonit_nam
+default_langcode: site_default
+language_alterable: false

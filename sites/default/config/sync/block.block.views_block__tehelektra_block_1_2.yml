@@ -1,0 +1,34 @@
+uuid: f7800d1d-ba8c-4356-98bd-2a0ce05e2b8f
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.tehelektra
+  module:
+    - block_class
+    - system
+    - views
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: views_block__tehelektra_block_1_2
+theme: paxton
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:tehelektra-block_1'
+settings:
+  id: 'views_block:tehelektra-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

@@ -1,0 +1,29 @@
+uuid: acace446-8e81-4fe4-9428-facd2a0de834
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:4c7c373a-410a-4a7b-b339-f699305efe1d'
+  module:
+    - block_class
+    - block_content
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: telefon_4
+theme: paxton
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'block_content:4c7c373a-410a-4a7b-b339-f699305efe1d'
+settings:
+  id: 'block_content:4c7c373a-410a-4a7b-b339-f699305efe1d'
+  label: Телефон
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

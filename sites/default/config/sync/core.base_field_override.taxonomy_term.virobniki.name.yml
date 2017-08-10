@@ -1,0 +1,18 @@
+uuid: 986c9e40-8880-4e52-aa7a-8fa6e0df98dd
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.virobniki
+id: taxonomy_term.virobniki.name
+field_name: name
+entity_type: taxonomy_term
+bundle: virobniki
+label: Name
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

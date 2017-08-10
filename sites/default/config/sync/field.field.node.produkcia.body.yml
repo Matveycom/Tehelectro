@@ -1,0 +1,22 @@
+uuid: e7700f9e-7a8c-4ac5-9538-3bce45693f23
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.produkcia
+  module:
+    - text
+id: node.produkcia.body
+field_name: body
+entity_type: node
+bundle: produkcia
+label: Body
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

@@ -1,0 +1,21 @@
+uuid: 42772e9d-53ef-4f4b-924d-39230b0c98a1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_opis_
+    - node.type.produkcia
+  module:
+    - text
+id: node.produkcia.field_opis_
+field_name: field_opis_
+entity_type: node
+bundle: produkcia
+label: 'Опис '
+description: 'Введіть опис даного продукта'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

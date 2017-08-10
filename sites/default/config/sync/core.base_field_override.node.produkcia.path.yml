@@ -1,0 +1,20 @@
+uuid: e17ffe9c-6b12-4ba6-a451-d5a7ac2de3ee
+langcode: uk
+status: true
+dependencies:
+  config:
+    - node.type.produkcia
+  module:
+    - path
+id: node.produkcia.path
+field_name: path
+entity_type: node
+bundle: produkcia
+label: URL-синонім
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

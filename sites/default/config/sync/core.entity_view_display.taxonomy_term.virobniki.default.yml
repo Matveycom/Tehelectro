@@ -1,0 +1,41 @@
+uuid: 58bea7bc-989c-45c7-8fe0-ff7f515dd67e
+langcode: uk
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.virobniki.field_foto
+    - image.style.medium
+    - taxonomy.vocabulary.virobniki
+  module:
+    - image
+    - panelizer
+    - text
+third_party_settings:
+  panelizer:
+    enable: false
+    custom: false
+    allow: false
+    default: default
+id: taxonomy_term.virobniki.default
+targetEntityType: taxonomy_term
+bundle: virobniki
+mode: default
+content:
+  description:
+    label: hidden
+    type: text_default
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_foto:
+    weight: 1
+    label: hidden
+    settings:
+      image_style: medium
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,23 @@
+uuid: 09ef583f-7e8c-4a5a-afda-901ee64a3402
+langcode: uk
+status: true
+dependencies:
+  module:
+    - block_class
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: pagetitle_2
+theme: paxton
+region: page_title
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

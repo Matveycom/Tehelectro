@@ -1,0 +1,18 @@
+uuid: eedeeb7f-3457-4539-aef7-7984bd9f28d8
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.virobniki
+id: taxonomy_term.virobniki.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: virobniki
+label: Змінено
+description: 'Час останнього редагування терміна.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

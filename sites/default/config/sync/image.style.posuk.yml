@@ -1,0 +1,15 @@
+uuid: 9c1f2eb5-ae6b-4091-bbeb-6c9e4b224c11
+langcode: uk
+status: true
+dependencies: {  }
+name: posuk
+label: Пошук
+effects:
+  a6e2871d-8e6c-446c-b136-2e52d54190bc:
+    uuid: a6e2871d-8e6c-446c-b136-2e52d54190bc
+    id: image_scale
+    weight: 1
+    data:
+      width: 10
+      height: null
+      upscale: false

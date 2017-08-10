@@ -1,0 +1,3 @@
+label: 'Search Form (users tab)'
+noResultLabel: 'No users found for [search-phrase]. Click to perform full search.'
+moreResultsLabel: 'View all users for [search-phrase].'

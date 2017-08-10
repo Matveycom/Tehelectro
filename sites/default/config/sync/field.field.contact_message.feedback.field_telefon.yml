@@ -1,0 +1,21 @@
+uuid: 18eeee3a-bb8c-4805-ae46-ab054ef5bc54
+langcode: uk
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.storage.contact_message.field_telefon
+  module:
+    - telephone
+id: contact_message.feedback.field_telefon
+field_name: field_telefon
+entity_type: contact_message
+bundle: feedback
+label: Телефон
+description: 'Будь ласка вкажіть ваш номер телефону в форматі +380998887766.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: telephone

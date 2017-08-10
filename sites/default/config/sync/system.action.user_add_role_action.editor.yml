@@ -1,0 +1,14 @@
+uuid: 2f482309-a0e9-4281-8354-bb954a8ca830
+langcode: uk
+status: true
+dependencies:
+  config:
+    - user.role.editor
+  module:
+    - user
+id: user_add_role_action.editor
+label: 'Додати роль редактор до вказаних користувачів'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: editor

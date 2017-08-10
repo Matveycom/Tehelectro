@@ -1,0 +1,26 @@
+uuid: 40530aae-d653-4bc8-83a5-6f6afb44df4c
+langcode: uk
+status: true
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+_core:
+  default_config_hash: NQr0oD4xpdVUQYKiNIOzCtjpyeCQYCgNi1a4on8lyC0
+id: paxton_breadcrumbs
+theme: paxton
+region: breadcrumb
+weight: -7
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

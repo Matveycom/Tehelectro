@@ -1,0 +1,22 @@
+uuid: 8a7c822c-3a9c-4c71-9d31-8a34e09772ed
+langcode: en
+status: true
+dependencies:
+  theme:
+    - paxton
+_core:
+  default_config_hash: WP75ZQbROrW2UhKukrbjizRFzKkjtpVYs1DWS8bL8oA
+id: paxton_local_tasks
+theme: paxton
+region: content_top
+weight: -9
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: true
+visibility: {  }

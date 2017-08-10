@@ -1,0 +1,27 @@
+uuid: fef7cb0d-316f-43db-b4c8-9a7f751977e7
+langcode: uk
+status: false
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: sitebranding_2
+theme: paxton
+region: banner
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

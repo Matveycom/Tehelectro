@@ -1,0 +1,8 @@
+uuid: cc6b2f53-5014-42a6-b125-dd10d45934eb
+langcode: uk
+status: true
+dependencies: {  }
+id: kategorii
+label: Категорії
+description: ''
+locked: false

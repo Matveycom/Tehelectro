@@ -1,0 +1,19 @@
+uuid: 17e0feb8-6fc2-49f1-b9e2-104c7de9f926
+langcode: uk
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_cina
+    - node.type.produkcia
+id: node.produkcia.field_cina
+field_name: field_cina
+entity_type: node
+bundle: produkcia
+label: Ціна
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

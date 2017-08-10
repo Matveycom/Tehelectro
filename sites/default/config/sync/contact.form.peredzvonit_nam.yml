@@ -1,0 +1,12 @@
+uuid: 278cb865-284d-4eaf-b9f8-7708d79cad62
+langcode: uk
+status: true
+dependencies: {  }
+id: peredzvonit_nam
+label: 'передзвоніть нам'
+recipients:
+  - vasiltehelektra@gmail.com
+reply: ''
+weight: 0
+message: 'Дякуємо за Ваш запрос. Ми передзвонимо Вам найближчим часом.'
+redirect: ''

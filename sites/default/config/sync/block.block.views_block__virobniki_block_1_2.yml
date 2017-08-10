@@ -1,0 +1,28 @@
+uuid: 3493db55-8698-46d6-b56d-210ef524f1f0
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.virobniki
+  module:
+    - block_class
+    - views
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: views_block__virobniki_block_1_2
+theme: paxton
+region: sidebar_second
+weight: -7
+provider: null
+plugin: 'views_block:virobniki-block_1'
+settings:
+  id: 'views_block:virobniki-block_1'
+  label: Виробники
+  provider: views
+  label_display: visible
+  views_label: Виробники
+  items_per_page: none
+visibility: {  }

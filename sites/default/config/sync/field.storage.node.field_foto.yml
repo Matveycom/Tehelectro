@@ -1,0 +1,30 @@
+uuid: d6533fd2-6bbe-40a3-958c-db5171f53b1b
+langcode: en
+status: true
+dependencies:
+  module:
+    - file
+    - image
+    - node
+id: node.field_foto
+field_name: field_foto
+entity_type: node
+type: image
+settings:
+  uri_scheme: public
+  default_image:
+    uuid: 7c066d64-4c52-4a8b-bc39-9a0e2ce4819e
+    alt: 'фото відсутнє'
+    title: ''
+    width: 300
+    height: 300
+  target_type: file
+  display_field: false
+  display_default: false
+module: image
+locked: false
+cardinality: 5
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

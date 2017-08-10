@@ -1,0 +1,27 @@
+uuid: c57cb18b-a74e-491c-af68-2faec7fa3c67
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_opis
+    - node.type.produkcia
+  module:
+    - file
+id: node.produkcia.field_opis
+field_name: field_opis
+entity_type: node
+bundle: produkcia
+label: 'Файл з описом'
+description: 'Виберіть файл з описом або технічними характеристиками даного продукта'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  file_directory: '[date:custom:Y]-[date:custom:m]'
+  file_extensions: 'txt pdf doc'
+  max_filesize: ''
+  description_field: true
+  handler: 'default:file'
+  handler_settings: {  }
+field_type: file

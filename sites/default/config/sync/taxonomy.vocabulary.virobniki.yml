@@ -1,0 +1,9 @@
+uuid: 0b3b4ff0-d89a-4722-affe-67b902224615
+langcode: uk
+status: true
+dependencies: {  }
+name: Виробники
+vid: virobniki
+description: 'Виробники, постачальники продукції'
+hierarchy: 0
+weight: -9

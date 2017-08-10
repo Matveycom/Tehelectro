@@ -1,0 +1,22 @@
+uuid: 4dd8fd6c-0be4-4cd1-b54a-adf38ead51d1
+langcode: uk
+status: true
+dependencies:
+  module:
+    - node
+id: product
+label: продукти
+type: 'canonical_entities:node'
+pattern: '[node:field_kategory]/[node:field_virobnik]/[node:title]'
+selection_criteria:
+  58793ea8-93c8-41f7-848c-d02cb40ed497:
+    id: node_type
+    bundles:
+      produkcia: produkcia
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 58793ea8-93c8-41f7-848c-d02cb40ed497
+selection_logic: and
+weight: -5
+relationships: {  }

@@ -1,0 +1,174 @@
+uuid: 415ed829-cefa-4dc8-a703-235987806882
+langcode: uk
+status: true
+dependencies:
+  config:
+    - page_manager.page.node_view
+  module:
+    - contact_poup
+    - ctools
+    - ctools_block
+    - panels
+id: node_view-panels_variant-0
+label: Products
+variant: panels_variant
+variant_settings:
+  blocks:
+    6b0d7130-f4c8-45e8-81ce-73cb080014c1:
+      id: 'entity_field:node:field_kategory'
+      label: 'Категорія:'
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: above
+        type: entity_reference_label
+        settings:
+          link: true
+        third_party_settings: {  }
+        weight: 0
+      region: right_above
+      weight: -1
+      uuid: 6b0d7130-f4c8-45e8-81ce-73cb080014c1
+      context_mapping:
+        entity: node
+    5511ba67-bc59-4c46-ab6f-7d6d4148566b:
+      id: 'entity_field:node:field_virobnik'
+      label: 'Виробник:'
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: above
+        type: entity_reference_label
+        settings:
+          link: true
+        third_party_settings: {  }
+        weight: 0
+      region: right_above
+      weight: 0
+      uuid: 5511ba67-bc59-4c46-ab6f-7d6d4148566b
+      context_mapping:
+        entity: node
+    551faf7d-90f1-4dc4-b0af-b5750df1bac7:
+      id: 'entity_field:node:field_opis_'
+      label: 'Опис '
+      provider: ctools_block
+      label_display: visible
+      formatter:
+        label: hidden
+        type: text_default
+        settings: {  }
+        third_party_settings: {  }
+        weight: 0
+      region: bottom
+      weight: -3
+      uuid: 551faf7d-90f1-4dc4-b0af-b5750df1bac7
+      context_mapping:
+        entity: node
+    e6246b42-ec13-436f-b42e-007e7a7eccc0:
+      id: 'entity_field:node:field_rozprodaz'
+      label: Розпродаж
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: hidden
+        type: boolean
+        settings:
+          format: custom
+          format_custom_true: РОЗПРОДАЖ
+          format_custom_false: ''
+        third_party_settings: {  }
+        weight: 0
+      region: right_above
+      weight: -3
+      uuid: e6246b42-ec13-436f-b42e-007e7a7eccc0
+      context_mapping:
+        entity: node
+    61e40c2e-11c5-4469-8f96-1a8516270f2c:
+      id: 'entity_field:node:field_foto'
+      label: Фото
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: hidden
+        type: colorbox
+        settings:
+          colorbox_node_style: 80_80
+          colorbox_node_style_first: storinka_tovaru
+          colorbox_image_style: large
+          colorbox_gallery: post
+          colorbox_gallery_custom: ''
+          colorbox_caption: auto
+          colorbox_caption_custom: ''
+        third_party_settings: {  }
+        weight: 0
+      region: left_above
+      weight: -2
+      uuid: 61e40c2e-11c5-4469-8f96-1a8516270f2c
+      context_mapping:
+        entity: node
+    615db9b1-e1a9-4383-8e00-a9b829e90ddb:
+      id: 'entity_field:node:field_opis'
+      label: 'Файл з описом'
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: above
+        type: file_default
+        settings: {  }
+        third_party_settings: {  }
+        weight: 0
+      region: right_above
+      weight: 1
+      uuid: 615db9b1-e1a9-4383-8e00-a9b829e90ddb
+      context_mapping:
+        entity: node
+    87a04aeb-06ca-4ead-bbc4-336a022dff46:
+      id: 'entity_field:node:field_cina'
+      label: Ціна
+      provider: ctools_block
+      label_display: '0'
+      formatter:
+        label: above
+        type: string
+        settings:
+          link_to_entity: false
+        third_party_settings: {  }
+        weight: 0
+      region: right_above
+      weight: -2
+      uuid: 87a04aeb-06ca-4ead-bbc4-336a022dff46
+      context_mapping:
+        entity: node
+    59d296a2-1650-40a3-80d4-13dba15e88f4:
+      id: contact_popup_block
+      label: Контакти
+      provider: contact_poup
+      label_display: '0'
+      region: right_above
+      weight: 2
+      uuid: 59d296a2-1650-40a3-80d4-13dba15e88f4
+      contact_form: feedback
+      link_title: ''
+      context_mapping: {  }
+  id: panels_variant
+  uuid: 55711b2e-5a48-4912-af47-eb14e986b788
+  label: null
+  weight: 0
+  layout: layout_twocol_bricks
+  layout_settings: {  }
+  page_title: '[node:title]'
+  storage_type: page_manager
+  storage_id: node_view-panels_variant-0
+  builder: standard
+page: node_view
+weight: 0
+selection_criteria:
+  -
+    id: 'entity_bundle:node'
+    bundles:
+      produkcia: produkcia
+    negate: false
+    context_mapping:
+      node: node
+selection_logic: and
+static_context: {  }

@@ -1,0 +1,31 @@
+uuid: e9393844-a2c5-4aa5-9c8b-1946b4db372b
+langcode: uk
+status: true
+dependencies:
+  config:
+    - system.menu.kategorii
+  module:
+    - block_class
+    - menu_block
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: kategorii_2
+theme: paxton
+region: sidebar_second
+weight: -8
+provider: null
+plugin: 'menu_block:kategorii'
+settings:
+  id: 'menu_block:kategorii'
+  label: Категорії
+  provider: menu_block
+  label_display: visible
+  level: 1
+  depth: 0
+  expand: 1
+  parent: 'kategorii:'
+  suggestion: kategorii
+visibility: {  }

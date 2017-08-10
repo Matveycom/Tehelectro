@@ -1,0 +1,24 @@
+uuid: 04bf4eef-38b1-4415-82d3-9ae6fe32c50f
+langcode: uk
+status: true
+dependencies:
+  module:
+    - block_class
+    - search
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: posukovaforma_2
+theme: paxton
+region: sidebar_second
+weight: -9
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Пошукова форма'
+  provider: search
+  label_display: visible
+visibility: {  }

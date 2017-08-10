@@ -1,0 +1,16 @@
+uuid: 277891d7-7012-45ee-8ae7-6e6af64e48de
+langcode: uk
+status: true
+dependencies:
+  config:
+    - node.type.produkcia
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: false
+id: node.produkcia
+target_entity_type_id: node
+target_bundle: produkcia
+default_langcode: site_default
+language_alterable: false

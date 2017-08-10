@@ -1,0 +1,28 @@
+uuid: 68d900b0-5672-4406-9221-fb9e1788df84
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_kategory
+    - node.type.produkcia
+    - taxonomy.vocabulary.kategory
+id: node.produkcia.field_kategory
+field_name: field_kategory
+entity_type: node
+bundle: produkcia
+label: Категорія
+description: 'Виберіть категорію до якої відноситься даний продукт'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      kategory: kategory
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

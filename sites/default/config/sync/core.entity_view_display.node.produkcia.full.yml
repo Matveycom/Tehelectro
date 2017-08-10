@@ -1,0 +1,81 @@
+uuid: 0544e331-5ea9-4bbc-a06d-eb51f224f6d3
+langcode: en
+status: false
+dependencies:
+  config:
+    - core.entity_view_mode.node.full
+    - field.field.node.produkcia.body
+    - field.field.node.produkcia.field_foto
+    - field.field.node.produkcia.field_kategory
+    - field.field.node.produkcia.field_opis
+    - field.field.node.produkcia.field_opis_
+    - field.field.node.produkcia.field_rozprodaz
+    - field.field.node.produkcia.field_virobnik
+    - node.type.produkcia
+  module:
+    - file
+    - image
+    - text
+    - user
+id: node.produkcia.full
+targetEntityType: node
+bundle: produkcia
+mode: full
+content:
+  field_foto:
+    type: image
+    weight: 0
+    region: content
+    label: hidden
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+  field_kategory:
+    type: entity_reference_label
+    weight: 1
+    region: content
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+  field_opis:
+    type: file_default
+    weight: 2
+    region: content
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+  field_opis_:
+    type: text_default
+    weight: 3
+    region: content
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+  field_rozprodaz:
+    type: boolean
+    weight: 4
+    region: content
+    label: hidden
+    settings:
+      format: default
+      format_custom_false: ''
+      format_custom_true: ''
+    third_party_settings: {  }
+  field_virobnik:
+    type: entity_reference_label
+    weight: 5
+    region: content
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+  links:
+    weight: 6
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  body: true
+  langcode: true

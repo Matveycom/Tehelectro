@@ -1,0 +1,15 @@
+uuid: 537287ec-edbc-4f91-a9c2-8e30981298ad
+langcode: uk
+status: true
+dependencies: {  }
+name: logotipi
+label: Логотипи
+effects:
+  3720f2ea-f833-48ef-8595-8d2770c6f23c:
+    uuid: 3720f2ea-f833-48ef-8595-8d2770c6f23c
+    id: image_scale
+    weight: 2
+    data:
+      width: 120
+      height: 90
+      upscale: true

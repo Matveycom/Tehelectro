@@ -1,0 +1,14 @@
+uuid: d465728e-3237-4532-862f-192ee52ddabe
+langcode: uk
+status: true
+dependencies:
+  config:
+    - system.menu.kategorii
+    - taxonomy.vocabulary.kategory
+id: menu_kategorii
+label: 'Меню категорії'
+vocabulary: kategory
+menu: kategorii
+expanded: false
+depth: 4
+menu_parent: 'kategorii:'

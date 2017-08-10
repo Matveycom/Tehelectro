@@ -1,0 +1,18 @@
+uuid: d609d3d2-8b9f-42ce-a050-f37a8cf719b8
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kategory
+id: taxonomy_term.kategory.changed
+field_name: changed
+entity_type: taxonomy_term
+bundle: kategory
+label: Змінено
+description: 'Час останнього редагування терміна.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: changed

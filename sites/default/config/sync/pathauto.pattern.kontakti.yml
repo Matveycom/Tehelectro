@@ -1,0 +1,22 @@
+uuid: 23475025-4457-4b3f-b039-2647bd68c652
+langcode: uk
+status: true
+dependencies:
+  module:
+    - node
+id: kontakti
+label: Контакти
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  12bc0607-157b-4f50-8cad-12430dcdadf9:
+    id: node_type
+    bundles:
+      kontakti: kontakti
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 12bc0607-157b-4f50-8cad-12430dcdadf9
+selection_logic: and
+weight: -5
+relationships: {  }

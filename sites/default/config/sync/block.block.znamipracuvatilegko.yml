@@ -1,0 +1,35 @@
+uuid: b324317b-2261-425b-bfab-9e4141b908f5
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:0e146b90-a680-4c72-953a-e0616e095a86'
+  module:
+    - block_class
+    - block_content
+    - system
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: znamipracuvatilegko
+theme: paxton
+region: content_top
+weight: -11
+provider: null
+plugin: 'block_content:0e146b90-a680-4c72-953a-e0616e095a86'
+settings:
+  id: 'block_content:0e146b90-a680-4c72-953a-e0616e095a86'
+  label: 'З НАМИ ПРАЦЮВАТИ ЛЕГКО'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

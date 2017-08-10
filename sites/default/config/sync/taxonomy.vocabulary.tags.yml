@@ -1,0 +1,9 @@
+uuid: 7e350002-09d4-41a4-ab3b-4ab9298c40bb
+langcode: uk
+status: true
+dependencies: {  }
+name: Теги
+vid: tags
+description: ''
+hierarchy: 0
+weight: 0

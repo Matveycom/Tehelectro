@@ -1,0 +1,20 @@
+uuid: 42590a7d-bc4c-4928-949a-6c75502a7367
+langcode: en
+status: true
+dependencies:
+  theme:
+    - paxton
+_core:
+  default_config_hash: ytYyu-zDxI_ZG4MSUcsWzsIm6_Rdk1yUhnk4mfJrmSs
+id: paxton_local_actions
+theme: paxton
+region: content_top
+weight: -10
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

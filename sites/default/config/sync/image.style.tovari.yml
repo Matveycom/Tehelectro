@@ -1,0 +1,14 @@
+uuid: 8ffb2c10-8c6f-4b71-878a-97aea151ae12
+langcode: uk
+status: true
+dependencies: {  }
+name: tovari
+label: Товари
+effects:
+  e981076b-b8cf-43ab-9736-4c6332f6e93a:
+    uuid: e981076b-b8cf-43ab-9736-4c6332f6e93a
+    id: image_scale_and_crop
+    weight: 2
+    data:
+      width: 180
+      height: 180

@@ -1,0 +1,3 @@
+label: 'Search Form (content tab)'
+noResultLabel: 'No results found containing the word [search-phrase].'
+moreResultsLabel: 'View all results containg term [search-phrase].'

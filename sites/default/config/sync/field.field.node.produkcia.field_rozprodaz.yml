@@ -1,0 +1,23 @@
+uuid: 34533e46-85d4-43bd-9dc7-92bb782e71d3
+langcode: uk
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_rozprodaz
+    - node.type.produkcia
+id: node.produkcia.field_rozprodaz
+field_name: field_rozprodaz
+entity_type: node
+bundle: produkcia
+label: Розпродаж
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

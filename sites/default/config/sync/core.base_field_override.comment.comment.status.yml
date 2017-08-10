@@ -1,0 +1,22 @@
+uuid: 59a1ff71-87f0-4a1a-a0e3-118e162748b9
+langcode: uk
+status: true
+dependencies:
+  config:
+    - comment.type.comment
+id: comment.comment.status
+field_name: status
+entity_type: comment
+bundle: comment
+label: 'Стан публікації'
+description: 'Булева індикація стану публікації.'
+required: false
+translatable: false
+default_value:
+  -
+    value: 1
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

@@ -1,0 +1,8 @@
+uuid: 5be5bf9e-8fd0-45df-9535-a267cc10c486
+langcode: uk
+status: true
+dependencies: {  }
+id: kategorii-blok
+label: 'Категорії блок'
+description: ''
+locked: false

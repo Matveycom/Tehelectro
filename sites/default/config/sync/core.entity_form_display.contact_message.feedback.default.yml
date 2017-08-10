@@ -1,0 +1,44 @@
+uuid: f3044eed-36ae-4e19-98c6-74faac209a52
+langcode: uk
+status: true
+dependencies:
+  config:
+    - contact.form.feedback
+    - field.field.contact_message.feedback.field_telefon
+  module:
+    - telephone
+id: contact_message.feedback.default
+targetEntityType: contact_message
+bundle: feedback
+mode: default
+content:
+  field_telefon:
+    weight: 1
+    settings:
+      placeholder: '+380998887766'
+    third_party_settings: {  }
+    type: telephone_default
+    region: content
+  mail:
+    weight: 2
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  message:
+    type: string_textarea
+    weight: 3
+    settings:
+      rows: 12
+      placeholder: ''
+    region: content
+    third_party_settings: {  }
+  name:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  copy: true
+  langcode: true
+  preview: true
+  subject: true

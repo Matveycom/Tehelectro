@@ -1,0 +1,39 @@
+uuid: 00434027-be31-4ad7-945e-282d504d08de
+langcode: en
+status: false
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.produkcia.body
+    - field.field.node.produkcia.field_foto
+    - field.field.node.produkcia.field_kategory
+    - field.field.node.produkcia.field_opis
+    - field.field.node.produkcia.field_opis_
+    - field.field.node.produkcia.field_virobnik
+    - node.type.produkcia
+  module:
+    - text
+    - user
+id: node.produkcia.teaser
+targetEntityType: node
+bundle: produkcia
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    region: content
+hidden:
+  field_foto: true
+  field_kategory: true
+  field_opis: true
+  field_opis_: true
+  field_virobnik: true
+  langcode: true

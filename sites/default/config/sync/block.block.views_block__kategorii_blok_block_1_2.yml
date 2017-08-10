@@ -1,0 +1,35 @@
+uuid: f8f763d9-507b-4db0-9c28-9a26e58d50a6
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.kategorii_blok
+  module:
+    - block_class
+    - system
+    - views
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: ''
+id: views_block__kategorii_blok_block_1_2
+theme: paxton
+region: content
+weight: -5
+provider: null
+plugin: 'views_block:kategorii_blok-block_1'
+settings:
+  id: 'views_block:kategorii_blok-block_1'
+  label: ''
+  provider: views
+  label_display: visible
+  views_label: ''
+  items_per_page: none
+  context_mapping: {  }
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

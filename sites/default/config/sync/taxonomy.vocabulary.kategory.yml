@@ -1,0 +1,9 @@
+uuid: d311e029-bd55-412e-b4ad-1eb9472c1519
+langcode: uk
+status: true
+dependencies: {  }
+name: Категорії
+vid: kategory
+description: 'Категорії продуктів'
+hierarchy: 1
+weight: -10

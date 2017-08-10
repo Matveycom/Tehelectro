@@ -1,0 +1,20 @@
+uuid: c486450d-27e6-42ea-b5c6-5327ba1cf1ce
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.virobniki
+  module:
+    - path
+id: taxonomy_term.virobniki.path
+field_name: path
+entity_type: taxonomy_term
+bundle: virobniki
+label: URL-синонім
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

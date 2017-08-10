@@ -1,0 +1,14 @@
+uuid: d7f39d9e-de61-43cd-a3a0-1b6f5ded6ae0
+langcode: uk
+status: true
+dependencies:
+  config:
+    - system.menu.kategorii-blok
+    - taxonomy.vocabulary.kategory
+id: kategorii_blok
+label: 'Категорії блок'
+vocabulary: kategory
+menu: kategorii-blok
+expanded: false
+depth: 8
+menu_parent: 'kategorii-blok:'

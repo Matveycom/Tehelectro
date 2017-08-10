@@ -1,0 +1,12 @@
+uuid: b95f3671-8419-4287-9987-7978f2e671d7
+langcode: uk
+status: true
+dependencies: {  }
+id: T43qaxwUQWS5cOCpwG2tGLGOF5UzykA0K-mCFL6oRhs
+label: 'http://localhost/tehelektra/'
+chunks: 1
+links: 100
+max_filesize: 18672
+context:
+  language: uk
+updated: 1502358550

@@ -1,0 +1,22 @@
+uuid: 2deacee7-f044-4ed1-981c-7bac42270770
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - paxton
+_core:
+  default_config_hash: s_aYY5hLMsr1NWYy58YvgJ_E8n2civYXbvKYrvJbA_4
+id: paxton_content
+theme: paxton
+region: content
+weight: -6
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

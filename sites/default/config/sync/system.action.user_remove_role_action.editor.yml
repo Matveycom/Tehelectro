@@ -1,0 +1,14 @@
+uuid: 83493a44-c4cd-4cac-8e4c-26288d0d0eed
+langcode: uk
+status: true
+dependencies:
+  config:
+    - user.role.editor
+  module:
+    - user
+id: user_remove_role_action.editor
+label: 'Видалити роль редактор у вказаних користувачів'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: editor

@@ -1,0 +1,16 @@
+uuid: 1435fa2f-96f4-4e55-80de-b49436fce424
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.virobniki
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+id: taxonomy_term.virobniki
+target_entity_type_id: taxonomy_term
+target_bundle: virobniki
+default_langcode: uk
+language_alterable: true

@@ -1,0 +1,15 @@
+uuid: 269c6683-ed36-469a-9972-2f8aa4386d62
+langcode: uk
+status: true
+dependencies: {  }
+name: 80_80
+label: '80*80'
+effects:
+  450b47fa-9cd3-46f7-bfbd-3ce5c40439bc:
+    uuid: 450b47fa-9cd3-46f7-bfbd-3ce5c40439bc
+    id: image_scale
+    weight: 2
+    data:
+      width: null
+      height: 80
+      upscale: false

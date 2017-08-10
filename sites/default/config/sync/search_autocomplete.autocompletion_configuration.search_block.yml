@@ -1,0 +1,22 @@
+langcode: uk
+_core:
+  default_config_hash: 2lo0hIx3RV2AgnE1fkdPLRQcYWGamMyouBoe2OiYk24
+id: search_block
+uuid: 78576746-b77b-4492-9b90-1d9f400f276c
+label: 'Search Block'
+selector: '2'
+status: false
+minChar: 3
+autoSubmit: true
+autoRedirect: true
+maxSuggestions: 10
+noResultLabel: 'Немає результатів для [search-phrase]. Натисніть, щоб виконати повний пошук.'
+noResultValue: '[search-phrase]'
+noResultLink: /products
+moreResultsLabel: 'Показати всі результати для [search-phrase].'
+moreResultsValue: '[search-phrase]'
+moreResultsLink: /products
+source: 'autocompletion_callbacks_nodes::nodes_autocompletion_callback'
+theme: basic-blue.css
+editable: true
+deletable: false

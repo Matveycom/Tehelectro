@@ -1,0 +1,23 @@
+uuid: 88f7acc5-039c-488a-a5e5-4d8cc01673a5
+langcode: uk
+status: true
+dependencies:
+  module:
+    - node
+id: storinki
+label: сторінки
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  cd50e03f-6d04-4dcf-b856-1c1b4cf1598b:
+    id: node_type
+    bundles:
+      article: article
+      page: page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: cd50e03f-6d04-4dcf-b856-1c1b4cf1598b
+selection_logic: and
+weight: -5
+relationships: {  }

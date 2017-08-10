@@ -1,0 +1,20 @@
+uuid: 81b6f7de-41d6-489b-85ee-6474d577e0ce
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.virobniki
+  module:
+    - text
+id: taxonomy_term.virobniki.description
+field_name: description
+entity_type: taxonomy_term
+bundle: virobniki
+label: Опис
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

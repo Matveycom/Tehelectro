@@ -1,0 +1,22 @@
+langcode: uk
+_core:
+  default_config_hash: GbwamktrK8GXKxWeEk8m8o_PWXbPj2vOiFqIANDYIEc
+id: search_form_content
+uuid: 58753d91-f164-41f0-8985-756806f60bb4
+label: 'Search Form (content tab)'
+selector: byyyy
+status: false
+minChar: 3
+autoSubmit: true
+autoRedirect: true
+maxSuggestions: 10
+noResultLabel: 'Немає результатів, що містять слово [search-phrase].'
+noResultValue: '[search-phrase]'
+noResultLink: /products
+moreResultsLabel: 'Показати всі результати для [search-phrase]. ррррррррр'
+moreResultsValue: '[search-phrase]'
+moreResultsLink: /products
+source: 'autocompletion_callbacks_words::words_autocompletion_callback'
+theme: basic-blue.css
+editable: true
+deletable: false

@@ -1,0 +1,10 @@
+uuid: 0cde89ff-9826-4fc2-87fc-f9b6b28c01f5
+langcode: uk
+status: true
+dependencies:
+  module:
+    - node
+id: node.storinka_tovaru
+label: 'Сторінка товару'
+targetEntityType: node
+cache: true

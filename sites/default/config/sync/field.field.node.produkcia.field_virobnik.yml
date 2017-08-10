@@ -1,0 +1,28 @@
+uuid: b6ecde19-7e37-465d-a469-6d2cae4b9f26
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_virobnik
+    - node.type.produkcia
+    - taxonomy.vocabulary.virobniki
+id: node.produkcia.field_virobnik
+field_name: field_virobnik
+entity_type: node
+bundle: produkcia
+label: Виробник
+description: 'Виберіть назву виробника даного продукта'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      virobniki: virobniki
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

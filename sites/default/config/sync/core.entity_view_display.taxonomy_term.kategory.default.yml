@@ -1,0 +1,33 @@
+uuid: 6701b922-78b3-4aab-a835-e1c05418870e
+langcode: uk
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.kategory.field_foto
+    - taxonomy.vocabulary.kategory
+  module:
+    - image
+    - text
+id: taxonomy_term.kategory.default
+targetEntityType: taxonomy_term
+bundle: kategory
+mode: default
+content:
+  description:
+    label: hidden
+    type: text_default
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_foto:
+    weight: 1
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+    region: content
+hidden:
+  langcode: true

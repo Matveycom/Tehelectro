@@ -1,0 +1,19 @@
+uuid: 7d7402da-4768-465c-9305-e5b26aa548cc
+langcode: uk
+status: true
+dependencies:
+  module:
+    - path
+    - user
+id: user.user.path
+field_name: path
+entity_type: user
+bundle: user
+label: URL-синонім
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: path

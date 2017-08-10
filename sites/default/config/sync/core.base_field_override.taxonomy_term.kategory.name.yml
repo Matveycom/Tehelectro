@@ -1,0 +1,18 @@
+uuid: a738d4bc-8e9e-4e5d-b376-5ded0bc9d6f3
+langcode: uk
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kategory
+id: taxonomy_term.kategory.name
+field_name: name
+entity_type: taxonomy_term
+bundle: kategory
+label: Name
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string
