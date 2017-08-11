@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: msYnighLW1IbiBfyQbwbQwb2cU-5LECiFryt60k0Nfk
 id: block_content
-label: 'Custom block library'
+label: 'Бібліотека власних блоків'
 module: views
 description: 'Find and manage custom blocks.'
 tag: default
@@ -435,7 +435,7 @@ display:
           entity_field: type
           plugin_id: bundle
       sorts: {  }
-      title: 'Custom block library'
+      title: 'Бібліотека власних блоків'
       header: {  }
       footer: {  }
       empty:
@@ -483,7 +483,7 @@ display:
       path: admin/structure/block/block-content
       menu:
         type: tab
-        title: 'Custom block library'
+        title: 'Бібліотека власних блоків'
         description: ''
         parent: block.admin_display
         weight: 0

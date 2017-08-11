@@ -11,7 +11,7 @@ dependencies:
     - paxton
 third_party_settings:
   block_class:
-    classes: ''
+    classes: footer-adv
 id: views_block__blok_futera_block_1_2
 theme: paxton
 region: content_bottom

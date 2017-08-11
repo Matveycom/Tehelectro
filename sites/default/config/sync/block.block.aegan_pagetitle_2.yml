@@ -1,0 +1,23 @@
+uuid: 6a24db3e-fd2a-4e65-937b-9bfdcfb4c31f
+langcode: uk
+status: true
+dependencies:
+  module:
+    - block_class
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: ''
+id: aegan_pagetitle_2
+theme: aegan
+region: header
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

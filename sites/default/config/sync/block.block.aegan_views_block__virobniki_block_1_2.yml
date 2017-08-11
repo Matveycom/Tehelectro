@@ -1,0 +1,28 @@
+uuid: 83fe5ed1-3f87-4459-b450-88a48b524e74
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.virobniki
+  module:
+    - block_class
+    - views
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: ''
+id: aegan_views_block__virobniki_block_1_2
+theme: aegan
+region: sidebar_second
+weight: -7
+provider: null
+plugin: 'views_block:virobniki-block_1'
+settings:
+  id: 'views_block:virobniki-block_1'
+  label: Виробники
+  provider: views
+  label_display: visible
+  views_label: Виробники
+  items_per_page: none
+visibility: {  }

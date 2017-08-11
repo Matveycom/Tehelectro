@@ -12,7 +12,7 @@ dependencies:
     - paxton
 third_party_settings:
   block_class:
-    classes: ''
+    classes: three-blocks
 id: znamipracuvatilegko
 theme: paxton
 region: content_top

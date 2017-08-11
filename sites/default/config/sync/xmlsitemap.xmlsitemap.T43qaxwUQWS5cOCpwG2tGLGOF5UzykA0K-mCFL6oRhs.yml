@@ -5,8 +5,8 @@ dependencies: {  }
 id: T43qaxwUQWS5cOCpwG2tGLGOF5UzykA0K-mCFL6oRhs
 label: 'http://localhost/tehelektra/'
 chunks: 1
-links: 100
-max_filesize: 18672
+links: 324
+max_filesize: 59943
 context:
   language: uk
-updated: 1502358550
+updated: 1502443008

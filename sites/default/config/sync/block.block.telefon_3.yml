@@ -11,10 +11,10 @@ dependencies:
     - paxton
 third_party_settings:
   block_class:
-    classes: ''
+    classes: footer-phones
 id: telefon_3
 theme: paxton
-region: footer_menu
+region: footer_second
 weight: -11
 provider: null
 plugin: 'block_content:4c7c373a-410a-4a7b-b339-f699305efe1d'

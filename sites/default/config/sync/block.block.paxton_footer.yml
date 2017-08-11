@@ -1,6 +1,6 @@
 uuid: a5f22466-637e-4fc7-9517-c2bed51f5f63
 langcode: en
-status: false
+status: true
 dependencies:
   config:
     - system.menu.footer
@@ -13,7 +13,7 @@ _core:
 id: paxton_footer
 theme: paxton
 region: footer_first
-weight: 0
+weight: -11
 provider: null
 plugin: 'system_menu_block:footer'
 settings:

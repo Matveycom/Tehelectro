@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: tS8PbpJX90aRFC3-UTgXzdqkq7_2frk2pz4TMijEebM
 id: content
-label: Content
+label: Вміст
 module: node
 description: 'Find and manage content.'
 tag: default
@@ -229,7 +229,7 @@ display:
           relationship: none
           group_type: group
           admin_label: ''
-          label: 'Content type'
+          label: 'Тип матеріалу'
           exclude: false
           alter:
             alter_text: false
@@ -454,7 +454,7 @@ display:
           exposed: true
           expose:
             operator_id: type_op
-            label: 'Content type'
+            label: 'Тип матеріалу'
             description: ''
             use_operator: false
             operator: type_op
@@ -579,7 +579,7 @@ display:
           group: 1
           entity_type: node
       sorts: {  }
-      title: Content
+      title: Вміст
       empty:
         area_text_custom:
           id: area_text_custom
@@ -623,14 +623,14 @@ display:
       path: admin/content/node
       menu:
         type: 'default tab'
-        title: Content
+        title: Вміст
         description: ''
         menu_name: admin
         weight: -10
         context: ''
       tab_options:
         type: normal
-        title: Content
+        title: Вміст
         description: 'Find and manage content'
         menu_name: admin
         weight: -10
