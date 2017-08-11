@@ -11,7 +11,7 @@ dependencies:
     - paxton
 third_party_settings:
   block_class:
-    classes: ''
+    classes: 'phones-block header-phones'
 id: telefon_4
 theme: paxton
 region: primary_menu

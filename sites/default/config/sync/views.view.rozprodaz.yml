@@ -179,8 +179,8 @@ display:
             trim: false
             preserve_tags: ''
             html: false
-          element_type: h1
-          element_class: title-products
+          element_type: ''
+          element_class: ''
           element_label_type: ''
           element_label_class: ''
           element_label_colon: false
@@ -341,7 +341,7 @@ display:
         operator: AND
         groups:
           1: AND
-      css_class: catalog
+      css_class: 'catalog category'
     cache_metadata:
       max-age: -1
       contexts:
@@ -367,7 +367,7 @@ display:
         menu_name: main
         description: ''
         parent: ''
-        weight: 0
+        weight: -46
         expanded: false
         enabled: true
     cache_metadata:

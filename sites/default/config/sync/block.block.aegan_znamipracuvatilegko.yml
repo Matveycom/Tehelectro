@@ -1,0 +1,35 @@
+uuid: b5261819-998c-451b-87b2-269ec9c5c348
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:0e146b90-a680-4c72-953a-e0616e095a86'
+  module:
+    - block_class
+    - block_content
+    - system
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: three-blocks
+id: aegan_znamipracuvatilegko
+theme: aegan
+region: content_top
+weight: -11
+provider: null
+plugin: 'block_content:0e146b90-a680-4c72-953a-e0616e095a86'
+settings:
+  id: 'block_content:0e146b90-a680-4c72-953a-e0616e095a86'
+  label: 'З НАМИ ПРАЦЮВАТИ ЛЕГКО'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

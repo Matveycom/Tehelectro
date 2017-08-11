@@ -1,0 +1,28 @@
+uuid: 48cb0fc2-8571-4528-934c-edc760abddbf
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.blok_futera
+  module:
+    - block_class
+    - views
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: footer-adv
+id: aegan_views_block__blok_futera_block_1_2
+theme: aegan
+region: content_bottom
+weight: -6
+provider: null
+plugin: 'views_block:blok_futera-block_1'
+settings:
+  id: 'views_block:blok_futera-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility: {  }

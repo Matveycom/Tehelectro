@@ -1,0 +1,16 @@
+@media screen and (max-width: 400px) {
+    #block-sitebranding div.site-slogan {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .slider-wrapper {
+        display: none;
+    }
+
+    #block-ssilkanablog {
+        display: none;
+    }
+}
+

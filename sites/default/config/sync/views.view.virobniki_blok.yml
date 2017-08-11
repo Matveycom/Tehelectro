@@ -73,16 +73,11 @@ display:
             last: 'Last »'
           quantity: 9
       style:
-        type: grid
+        type: default
         options:
+          row_class: ''
+          default_row_class: true
           uses_fields: false
-          columns: 4
-          automatic_width: true
-          alignment: vertical
-          col_class_default: true
-          col_class_custom: ''
-          row_class_default: true
-          row_class_custom: ''
       row:
         type: 'entity:taxonomy_term'
       fields:
@@ -216,6 +211,7 @@ display:
       relationships: {  }
       arguments: {  }
       display_extenders: {  }
+      css_class: manufacturers
     cache_metadata:
       max-age: -1
       contexts:
@@ -243,16 +239,11 @@ display:
         disable_filters: '0'
         configure_sorts: '0'
       style:
-        type: grid
+        type: default
         options:
           grouping: {  }
-          columns: 4
-          automatic_width: true
-          alignment: horizontal
-          col_class_default: true
-          col_class_custom: ''
-          row_class_default: true
-          row_class_custom: ''
+          row_class: ''
+          default_row_class: true
       defaults:
         style: false
         row: false
@@ -373,16 +364,11 @@ display:
       display_extenders: {  }
       path: virobniki
       style:
-        type: grid
+        type: default
         options:
           grouping: {  }
-          columns: 4
-          automatic_width: true
-          alignment: horizontal
-          col_class_default: true
-          col_class_custom: ''
-          row_class_default: true
-          row_class_custom: ''
+          row_class: ''
+          default_row_class: true
       defaults:
         style: false
         row: false
@@ -467,7 +453,7 @@ display:
         description: ''
         expanded: false
         parent: ''
-        weight: -45
+        weight: -47
         context: '0'
         menu_name: main
         enabled: true

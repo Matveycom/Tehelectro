@@ -1,0 +1,29 @@
+uuid: 1bbd8760-0439-48a4-a052-1d6e072fa315
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:4c7c373a-410a-4a7b-b339-f699305efe1d'
+  module:
+    - block_class
+    - block_content
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: 'phones-block header-phones'
+id: aegan_telefon_4
+theme: aegan
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'block_content:4c7c373a-410a-4a7b-b339-f699305efe1d'
+settings:
+  id: 'block_content:4c7c373a-410a-4a7b-b339-f699305efe1d'
+  label: Телефон
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

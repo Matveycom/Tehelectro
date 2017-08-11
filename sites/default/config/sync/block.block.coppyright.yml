@@ -1,0 +1,29 @@
+uuid: 747364a3-8f4e-4dcc-99a5-95d87d807e69
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:ba002eea-b575-4ed8-89a4-a02f00326ae2'
+  module:
+    - block_class
+    - block_content
+  theme:
+    - paxton
+third_party_settings:
+  block_class:
+    classes: 'credited pull-left'
+id: coppyright
+theme: paxton
+region: footer_bottom
+weight: 0
+provider: null
+plugin: 'block_content:ba002eea-b575-4ed8-89a4-a02f00326ae2'
+settings:
+  id: 'block_content:ba002eea-b575-4ed8-89a4-a02f00326ae2'
+  label: Coppyright
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

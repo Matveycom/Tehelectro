@@ -1,17 +1,19 @@
-uuid: 5164dcb9-cadb-418e-9733-dbca53b18968
+uuid: a92b355a-1e1a-41e9-a91b-bf3df3dd41f0
 langcode: uk
 status: true
 dependencies:
   module:
+    - block_class
     - system
   theme:
-    - paxton
-_core:
-  default_config_hash: 32P1o_YHecHsgAQuN019rNAZ1xrWwYTqhFO0k_EG_qE
-id: paxton_site_branding
-theme: paxton
+    - aegan
+third_party_settings:
+  block_class:
+    classes: ''
+id: aegan_sitebranding
+theme: aegan
 region: header
-weight: -6
+weight: 0
 provider: null
 plugin: system_branding_block
 settings:

@@ -28,8 +28,8 @@ content:
     type: string_textarea
     weight: 3
     settings:
-      rows: 12
-      placeholder: ''
+      rows: 5
+      placeholder: 'Ваше повідомлення'
     region: content
     third_party_settings: {  }
   name:

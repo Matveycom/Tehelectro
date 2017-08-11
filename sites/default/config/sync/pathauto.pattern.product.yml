@@ -7,16 +7,16 @@ dependencies:
 id: product
 label: продукти
 type: 'canonical_entities:node'
-pattern: '[node:field_kategory]/[node:field_virobnik]/[node:title]'
+pattern: '[node:field_virobnik]/[node:field_kategory]/[node:title]'
 selection_criteria:
-  58793ea8-93c8-41f7-848c-d02cb40ed497:
+  acc6b21f-1886-4c92-b4ce-359c2f8b3794:
     id: node_type
     bundles:
       produkcia: produkcia
     negate: false
     context_mapping:
       node: node
-    uuid: 58793ea8-93c8-41f7-848c-d02cb40ed497
+    uuid: acc6b21f-1886-4c92-b4ce-359c2f8b3794
 selection_logic: and
 weight: -5
 relationships: {  }

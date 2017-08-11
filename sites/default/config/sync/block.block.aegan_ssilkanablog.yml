@@ -1,0 +1,35 @@
+uuid: 5aa5f432-3487-4592-a3c9-97c3b203697d
+langcode: uk
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:2d9bbe48-8534-4a05-93b4-51e084938442'
+  module:
+    - block_class
+    - block_content
+    - system
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: ''
+id: aegan_ssilkanablog
+theme: aegan
+region: header
+weight: 0
+provider: null
+plugin: 'block_content:2d9bbe48-8534-4a05-93b4-51e084938442'
+settings:
+  id: 'block_content:2d9bbe48-8534-4a05-93b4-51e084938442'
+  label: 'Ссилка на блог'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

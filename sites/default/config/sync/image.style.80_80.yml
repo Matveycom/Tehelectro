@@ -5,11 +5,10 @@ dependencies: {  }
 name: 80_80
 label: '80*80'
 effects:
-  450b47fa-9cd3-46f7-bfbd-3ce5c40439bc:
-    uuid: 450b47fa-9cd3-46f7-bfbd-3ce5c40439bc
-    id: image_scale
+  1848cab6-d6db-4f5c-a211-31521d6070f2:
+    uuid: 1848cab6-d6db-4f5c-a211-31521d6070f2
+    id: image_scale_and_crop
     weight: 2
     data:
-      width: null
+      width: 80
       height: 80
-      upscale: false

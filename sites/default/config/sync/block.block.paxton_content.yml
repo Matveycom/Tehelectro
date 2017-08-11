@@ -3,15 +3,19 @@ langcode: en
 status: true
 dependencies:
   module:
+    - block_class
     - system
   theme:
     - paxton
+third_party_settings:
+  block_class:
+    classes: ''
 _core:
   default_config_hash: s_aYY5hLMsr1NWYy58YvgJ_E8n2civYXbvKYrvJbA_4
 id: paxton_content
 theme: paxton
 region: content
-weight: -6
+weight: -11
 provider: null
 plugin: system_main_block
 settings:
@@ -19,4 +23,9 @@ settings:
   label: 'Main page content'
   provider: system
   label_display: '0'
-visibility: {  }
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true
+    context_mapping: {  }

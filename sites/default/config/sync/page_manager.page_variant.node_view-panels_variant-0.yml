@@ -148,7 +148,7 @@ variant_settings:
       weight: 2
       uuid: 59d296a2-1650-40a3-80d4-13dba15e88f4
       contact_form: feedback
-      link_title: ''
+      link_title: 'Інформація про товар'
       context_mapping: {  }
   id: panels_variant
   uuid: 55711b2e-5a48-4912-af47-eb14e986b788

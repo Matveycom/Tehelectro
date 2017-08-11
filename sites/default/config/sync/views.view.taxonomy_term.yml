@@ -347,8 +347,8 @@ display:
             trim: false
             preserve_tags: ''
             html: false
-          element_type: h1
-          element_class: title-products
+          element_type: ''
+          element_class: ''
           element_label_type: ''
           element_label_class: ''
           element_label_colon: false
@@ -442,7 +442,7 @@ display:
       display_extenders: {  }
       link_url: ''
       link_display: page_1
-      css_class: catalog
+      css_class: 'catalog category'
     cache_metadata:
       contexts:
         - 'languages:language_content'

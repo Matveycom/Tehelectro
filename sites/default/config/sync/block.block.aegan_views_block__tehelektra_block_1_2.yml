@@ -1,0 +1,34 @@
+uuid: 4669c7aa-3921-499a-9773-b3911a12f7c6
+langcode: uk
+status: true
+dependencies:
+  config:
+    - views.view.tehelektra
+  module:
+    - block_class
+    - system
+    - views
+  theme:
+    - aegan
+third_party_settings:
+  block_class:
+    classes: ''
+id: aegan_views_block__tehelektra_block_1_2
+theme: aegan
+region: content
+weight: 0
+provider: null
+plugin: 'views_block:tehelektra-block_1'
+settings:
+  id: 'views_block:tehelektra-block_1'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: false
+    context_mapping: {  }

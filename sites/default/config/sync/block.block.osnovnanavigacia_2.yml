@@ -1,6 +1,6 @@
 uuid: 29de9590-d4b5-45cf-92d9-9d103fc82c68
 langcode: uk
-status: false
+status: true
 dependencies:
   config:
     - system.menu.main
@@ -15,7 +15,7 @@ third_party_settings:
 id: osnovnanavigacia_2
 theme: paxton
 region: footer_menu
-weight: -10
+weight: -12
 provider: null
 plugin: 'menu_block:main'
 settings:

@@ -1,0 +1,20 @@
+uuid: 72f177ef-628f-45b0-a120-e25c3020cb63
+langcode: en
+status: true
+dependencies:
+  theme:
+    - aegan
+_core:
+  default_config_hash: ytYyu-zDxI_ZG4MSUcsWzsIm6_Rdk1yUhnk4mfJrmSs
+id: aegan_local_actions
+theme: aegan
+region: content_top
+weight: -10
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }
