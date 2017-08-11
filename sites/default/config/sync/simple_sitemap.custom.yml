@@ -1,0 +1,13 @@
+links:
+  -
+    path: /virobniki
+    priority: '0.5'
+  -
+    path: /products
+    priority: '0.5'
+  -
+    path: /rozprodag
+    priority: '0.5'
+_core:
+  default_config_hash: Gp8bobHmx-DuBPQoAb8KqKZXBqnca2flPqbNerZl0xQ
+langcode: uk

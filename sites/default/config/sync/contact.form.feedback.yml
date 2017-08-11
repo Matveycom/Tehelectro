@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - vasiltehelektra@gmail.com
+  - MatveyTolik@gmail.com
 reply: ''
 weight: 0
 message: 'Дякуємо за Ваш запрос. Ми зв''яжемося з Вами найближчим часом.'

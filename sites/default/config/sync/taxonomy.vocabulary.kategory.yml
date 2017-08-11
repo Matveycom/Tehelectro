@@ -5,5 +5,5 @@ dependencies: {  }
 name: Категорії
 vid: kategory
 description: 'Категорії продуктів'
-hierarchy: 1
+hierarchy: 0
 weight: -10

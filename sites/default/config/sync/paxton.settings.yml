@@ -1,34 +1,56 @@
 features:
-  comment_user_picture: true
-  comment_user_verification: true
-  favicon: true
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
   logo: true
   name: true
-  node_user_picture: true
+  node_user_picture: 1
   slogan: true
 slideshow_display: 1
 show_social_icons: 1
-slide_title_1: 'Welcome Message'
-slide_description_1: 'Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.'
+slide_title_1: Кабелі
+slide_description_1: 'На нашому сайті ви можете придбати різні кабелі і проводи.'
 slide_url_1: node/3
 slide_image_path_1: /images/parallax-slider/slide_one.png
-slide_title_2: 'About Websites'
+slide_title_2: Лампи
 slide_head_2: 'Fully Responsive'
-slide_description_2: 'Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.'
+slide_description_2: "З підвищенням тарифів на електроенергію все більш актуальним стає питання економії. Світлодіодні лампи стрімко набирають популярність\r\n"
 slide_url_2: node/3
 slide_image_path_2: /images/parallax-slider/slide_two.png
-slide_title_3: 'success of Site'
-slide_description_3: 'Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.'
+slide_title_3: Світильники
+slide_description_3: 'В нас є широкий асортемент ЛЕД світильників'
 slide_url_3: node/3
 slide_image_path_3: /images/parallax-slider/slide_three.png
-slide_title_4: 'Smaple Contents'
-slide_description_4: 'Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.'
+slide_title_4: 'Розетки і вимикачі'
+slide_description_4: 'Ми пропонуємо розетки та вимикачі '
 slide_url_4: node/3
 slide_image_path_4: /images/parallax-slider/slide-four.png
-slide_title_5: 'WEBSITE FEEDBACK'
-slide_description_5: 'Nulla quis lorem ut libero malesuada feugiat. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.'
+slide_title_5: 'Автоматичні вимикачі'
+slide_description_5: 'Ви можете придбати автоматичні вимикачі різних виробників'
 slide_url_5: node/3
 slide_image_path_5: /images/parallax-slider/slide_five.png
 _core:
   default_config_hash: GUen8U73yQwuBi2qK5mVGvpCKzdvos_C0K-VTBt9qlI
 langcode: uk
+logo:
+  use_default: 0
+  path: 'public://images1.jpg'
+favicon:
+  use_default: 1
+slide_image_path1:
+  - '150'
+slide_image_path2:
+  - '146'
+slide_image_path3:
+  - '147'
+slide_image_path4:
+  - '155'
+slide_image_path5:
+  - '149'
+social_icon_display: 0
+facebook_url: ''
+google_plus_url: ''
+twitter_url: ''
+linkedin_url: ''
+pinterest_url: ''
+rss_url: ''

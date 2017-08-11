@@ -317,7 +317,7 @@ textarea {
   padding-right: 15px;
 }
 .view img {
-  width: 100%;
+  /*width: 100%;*/
   margin: 3px 0px 7px 0px;
   border: 6px double #f6f6f6;
   padding: 2px;
