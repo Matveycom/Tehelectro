@@ -14,3 +14,8 @@
     }
 }
 
+@media screen and (max-width: 650px) {
+    .layout-region--right_above, layout-region--left_above{
+        flex: none!important;
+    }
+}

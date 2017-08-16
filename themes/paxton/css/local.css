@@ -192,14 +192,6 @@ nav.navbar {
 }
 
 /*********************** RIGHT SIDEBAR ************************/
-/*Search form*/
-.search-block-form div {
-    display: inline-block;
-}
-
-.search-block-form .form-item {
-    width: 65%;
-}
 
 .sidebar .block {
     padding: 20px !important;
@@ -219,6 +211,7 @@ nav.navbar {
     border: 2px solid #f6f6f6;
     margin: 10px 0px 15px 10px;
     text-align: center;
+    font-size: 0.7em;
 }
 
 .category .views-row:hover {
@@ -229,6 +222,7 @@ nav.navbar {
 }
 
 .category .views-field-name h3 {
+    font-size: 1.5em!important;
     margin-top: 0;
     height: 60px;
     overflow: hidden;
@@ -280,13 +274,19 @@ nav.navbar {
 
 .block-contact-poup a:hover, a:active, a:focus {
     text-decoration: none !important;
-    color: white !important;
-    background-color: #d18100;
+    color: #ffffff !important;
     border: none;
 }
 
-.ui-widget-content{
-    width: 700px!important;
+@media screen and (min-width: 1000px) {
+    .ui-widget-content {
+        width: 700px !important;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .ui-widget-content{
+        width: 300px!important;
+    }
 }
 .ui-dialog-buttonset button:last-child{
     display: none;
@@ -368,7 +368,7 @@ iframe {
         vertical-align: top;
         display: inline-block;
         /*height: 100px;*/
-        width: 16vw;
+        width: 60%;
         margin: 1vw 0 0 0;
     }
 }
@@ -382,12 +382,11 @@ iframe {
 
 .footer-block .views-row {
     display: inline-block;
-    width: 365px;
+    width: 370px;
 }
 
 /*футер блоки*/
 .footer-block .field-content {
-    font-size: small;
     margin: 7px;
 }
 
@@ -423,6 +422,6 @@ iframe {
 
 #copyright {
     padding: 20px 0 0 0 !important;
-    background-color: #04384b;
+    background-color: #222;
     color: white !important;
 }

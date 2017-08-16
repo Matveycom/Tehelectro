@@ -96,9 +96,9 @@ function paxton_get_slider_content() {
       $path = base_path() . drupal_get_path('theme', 'paxton') . theme_get_setting('slide_image_path_' . $i, 'paxton');
     }
     $slider_content[$i] = '<div class="da-slide">
-      <h2>' . wordwrap(theme_get_setting('slide_title_' . $i, 'paxton'), 20, "<br>").'</h2>
-      <p>' . wordwrap(theme_get_setting('slide_description_' . $i, 'paxton'), 60, "<br>").'</p>
-      <a href=' . theme_get_setting('slide_url_' . $i, 'paxton') . ' class="da-link">Read more</a>
+      <h2>' . wordwrap(theme_get_setting('slide_title_' . $i, 'paxton'), 60, "<br>").'</h2>
+      <p>' . wordwrap(theme_get_setting('slide_description_' . $i, 'paxton'), 200, "<br>").'</p>
+      <a href=' . theme_get_setting('slide_url_' . $i, 'paxton') . ' class="da-link">Переглянути</a>
       <div class="da-img"><img src="' . $path . '" alt="image01" /></div>
     </div>';
   }

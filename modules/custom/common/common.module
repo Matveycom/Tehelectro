@@ -1,0 +1,32 @@
+<?php
+/**
+ * Implements hook_form_alter().
+ */
+function common_form_alter(&$form, \Drupal\Core\Form\FormStateInterface $form_state, $form_id)
+{
+
+    if($form_id == 'contact_message_feedback_form') {
+        $form['field_from_page']['widget'][0]['value']['#value'] = $_SERVER['HTTP_REFERER'];
+        $form['field_from_page']['widget'][0]['#access'] = FALSE;
+
+    }
+}
+
+use Drupal\node\Entity\Node;
+use \Drupal\taxonomy\TermInterface;
+function common_node_presave(\Drupal\node\NodeInterface $node)   {
+    $args = array();
+    $termid = $node->get('field_kategory')->getValue();
+    foreach ($termid as $key => $value){
+
+        $tid = $termid[$key]['target_id'];
+        $parents = \Drupal::entityTypeManager()->getStorage('taxonomy_term')->loadAllParents($tid);//        if ($parent){
+        foreach ($parents as $k => $v){
+            $args[] = $k;
+        }
+    }
+    $args = array_unique($args);
+    $node->set('field_kategory', $args);
+}
+
+
